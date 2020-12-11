@@ -1,0 +1,14 @@
+<mat-toolbar class="extend-toolbar">
+  <span>
+    <a [routerLink]="['/']">home</a>
+  </span>
+  <span class="flex"></span>
+  <span>
+    <a [routerLink]="['/time-evolution']">Time Evolution</a>
+    <a [routerLink]="['/student-list']">Student List</a>
+  </span>
+</mat-toolbar>
+
+<section>
+  <router-outlet></router-outlet>
+</section>
