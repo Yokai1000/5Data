@@ -2,19 +2,17 @@ const mongoose = require('mongoose');
 
 const EtudiantSchema = mongoose.Schema(
   {
-    Id: Number,
+    ID: Number,
     First_Name: String,
     Last_Name: String,
     Email: String,
     Gender: String,
     Country: String,
     City: String,
-    Birth_Date: Date,
-    Origin_Region: String,
-    Origin_School: String,
-    Subscription_Date: Date,
-    Exit_Date: Date,
-    Hire_Date: Date,
+    Birth_Date: String,
+    Subscription_Date: String,
+    Exit_Date: String,
+    Hire_Date: String,
     Study_Domain: String,
     Mobility: String,
     General_Mean: Number,
@@ -27,7 +25,7 @@ const EtudiantSchema = mongoose.Schema(
     Mail_Supinfo: String,
     Recrutment_Salon: Boolean
   },
-  { collection: 'etudiant' }
+  { collection: 'students' }
 );
 
 module.exports = mongoose.model('Etudiant', EtudiantSchema);
