@@ -33,4 +33,11 @@ export class StudentListComponent implements OnInit {
         this.students = students;
       });
   }
+  getGraphSuccessFullStuden(event: Event){
+    this._http
+    .get("http://localhost:3000/etudiants/success/graph")
+    .subscribe(students => {
+      this.students = students;
+    })
+  }
 }

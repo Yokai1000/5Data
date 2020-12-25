@@ -1,4 +1,5 @@
 const Etudiant = require('../models/etudiant.model.js');
+const plotly = require('plotly')("whoismatt", "6B1jGom1whc3bXVraMKy")
 
 // Retrieve and return all etudiants from the database.
 exports.findAll = (req, res) => {
@@ -18,7 +19,7 @@ exports.getSuccessfullStudent = (req, res) => {
   Etudiant.find()
     .then(etudiants => {
       etudiants.sort((a, b) => (parseFloat(a.General_Mean) < parseFloat(b.General_Mean)) ? 1 : -1)
-      res.send(etudiants.slice(0,20));
+      res.send(etudiants.slice(0,40));
     })
     .catch(err => {
       res.status(500).send({
@@ -58,6 +59,13 @@ exports.findOne = (req, res) => {
       });
     });
 };
+
+exports.getGraphOfSuccessfullStudent = (req, res) => {
+    Etudiant.find({}, {Email:1,General_Mean:1})
+    .then(etudiants => {
+      console.log(etudiants)
+    })
+}
 
 //get hired student count by year
 // exports.CountByYearGroupedByGender = (req, res) => {

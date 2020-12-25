@@ -1,5 +1,7 @@
-<button (click)="allStudent($event)" type="button">All</button>
-<button (click)="successfulStudent($event)" type="button">Successful</button>
+<button (click)="allStudent($event)" type="button">All</button><br>
+<button (click)="successfulStudent($event)" type="button">Successfull</button><br>
+<button (click)="getGraphSuccessFullStuden($event)" type="button">Success</button>
+
 <div class="flex-container">
   <mat-card class="mat-whiteframe-2dp" *ngFor="let student of students">
     <mat-card-title class="name">
