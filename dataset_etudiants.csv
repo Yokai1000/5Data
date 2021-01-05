@@ -1,0 +1,101 @@
+﻿ID;First_Name;Last_Name;Email;Gender;Country;City;Birth_date;Subscription_Date;Exit_Date;Hire_Date;Study_Domain;Mobility;General_Mean;Interruption_Reason;Graduation;Presence;Internship_Pro;Contract_Type;Company_Name;Recrutement_Salon;Recrutment_Nbr
+234534;Chester;Ratliff;Chester.Ratliff@supinfo.com;M;France;Schiltigheim;20/11/1995;02/03/2020;07/09/2021;29/08/2020;IT Engineer;Walk;19;NA;True;Always;True;InternshipPro;"	Modis ";4;0
+234535;Callum;Crosby;Callum.Crosby@supinfo.com;M;France;Montpellier;21/01/1997;09/02/2021;21/10/2021;23/08/2021;Developer Backend;Walk;6;Rating;False;Delayed;False;PartTime;"	CHEOPS Technology ";3;3
+234536;Grady;Dean;Grady.Dean@supinfo.com;F;France;Soissons;30/10/1993;22/07/2020;20/03/2020;23/04/2021;Design UX/UI;Car;16;NA;True;Often;False;PartTime;"	CGI ";5;9
+234537;Leonard;Best;Leonard.Best@supinfo.com;M;France;Amiens;17/09/1992;15/03/2021;25/07/2021;25/08/2021;Linux Architect;Train;13;NA;True;Delayed;True;InternshipPro;"	davidson consulting ";1;0
+234538;Heidi;Hopper;Heidi.Hopper@supinfo.com;F;France;Bastia;20/08/1992;21/06/2021;28/02/2020;25/11/2021;Developer Backend;Bike;4;Rating;False;Absent;False;PartTime;"	C17 Engineering ";5;0
+234539;Rafael;Stuart;Rafael.Stuart@supinfo.com;M;France;Bastia;06/01/1995;03/12/2020;26/11/2020;04/02/2020;IT Engineer;Car;5;Rating;False;Often;False;PartTime;"	Dailymotion ";0;10
+234540;Amena;Valentine;Amena.Valentine@supinfo.com;F;France;Le Grand-Quevilly;23/09/1998;14/08/2020;12/05/2020;16/06/2020;Developer Backend;Train;10;NA;True;Delayed;True;InternshipPro;"	Devoteam ";1;9
+234541;Richard;Mclaughlin;Richard.Mclaughlin@supinfo.com;M;France;Châteauroux;13/11/1994;14/06/2020;16/08/2021;09/02/2020;Developer Front;Bike;14;NA;True;Often;True;InternshipPro;"	Talan ";3;10
+234542;Unity;Walsh;Unity.Walsh@supinfo.com;M;France;Besançon;06/10/1998;13/10/2021;23/03/2021;24/10/2020;Developer Fullstack;Train;6;Rating;False;Absent;False;FullTime;"	Decathlon ";3;10
+234543;Alyssa;Willis;Alyssa.Willis@supinfo.com;F;France;Thionville;08/11/1995;08/10/2020;18/08/2020;02/08/2021;Linux Architect;Bike;8;Rating;False;Absent;False;PartTime;"	Total ";5;8
+234544;Madaline;Harding;Madaline.Harding@supinfo.com;F;France;Évreux;27/03/1991;15/04/2020;08/09/2020;30/03/2021;IT Engineer;Train;12;NA;True;Absent;False;FullTime;"	IBM ";3;1
+234545;Abraham;Coffey;Abraham.Coffey@supinfo.com;M;France;Boulogne-Billancourt;05/09/1991;30/10/2021;11/12/2021;20/07/2020;Admin Sys;Walk;5;Rating;False;Absent;False;PartTime;"	Airbus ";3;3
+234546;Kibo;Torres;Kibo.Torres@supinfo.com;M;France;Brive-la-Gaillarde;22/09/1998;18/10/2020;28/04/2020;16/03/2021;Data Anlalyst;Car;18;Rating;False;Often;True;InternshipPro;"	Altran ";4;3
+234547;Quinlan;Mccormick;Quinlan.Mccormick@supinfo.com;M;France;Colmar;02/04/1995;03/12/2021;27/06/2021;25/10/2020;Admin Sys;Train;7;Rating;False;Delayed;True;InternshipPro;"	CHEOPS Technology ";3;0
+234548;Keely;Baird;Keely.Baird@supinfo.com;F;France;Lisieux;20/05/1994;04/10/2021;13/01/2020;25/08/2020;Admin Sys;Car;13;NA;True;Delayed;True;InternshipPro;"	Extia ";0;7
+234549;Axel;Rivas;Axel.Rivas@supinfo.com;M;France;Charleville-Mézières;18/11/1998;12/02/2021;10/03/2020;25/02/2021;Design UX/UI;Train;18;NA;True;Often;False;FullTime;"	C17 Engineering ";3;2
+234550;Kyle;Hooper;Kyle.Hooper@supinfo.com;M;France;Sens;02/04/1996;02/05/2020;26/07/2020;20/01/2020;Admin Sys;Car;7;Rating;False;Always;True;InternshipPro;"	Decathlon ";3;9
+234551;Bell;Rice;Bell.Rice@supinfo.com;M;France;Brive-la-Gaillarde;10/06/1993;06/02/2020;21/11/2020;06/05/2020;Data Anlalyst;Car;17;Rating;True;Often;True;InternshipPro;"	Cat-Amania ";1;3
+234552;Savannah;Jarvis;Savannah.Jarvis@supinfo.com;F;France;Mont-de-Marsan;20/09/1996;16/03/2020;14/03/2020;02/11/2021;Developer Fullstack;Train;20;NA;True;Always;True;InternshipPro;"	CGI ";3;2
+234553;Megan;Henderson;Megan.Henderson@supinfo.com;F;France;Courbevoie;14/08/1994;27/05/2020;02/05/2021;23/05/2021;Admin Sys;Bike;5;Rating;False;Delayed;False;FullTime;"	Hewlett Packard Enterprise ";4;4
+234554;Angelica;Ortega;Angelica.Ortega@supinfo.com;F;France;Rennes;21/03/1993;25/02/2021;23/04/2021;22/08/2020;Developer Backend;Walk;6;Rating;False;Delayed;False;PartTime;"	Qim info SA ";0;6
+234555;Maxine;Pollard;Maxine.Pollard@supinfo.com;M;France;Lunel;11/05/1993;15/11/2021;20/04/2020;02/11/2020;Admin Sys;Train;12;NA;True;Absent;False;FullTime;"	leboncoin ";0;8
+234556;Martina;Bolton;Martina.Bolton@supinfo.com;F;France;Ajaccio;06/12/1995;09/06/2020;18/11/2020;20/09/2020;Admin Sys;Car;19;Rating;False;Often;False;PartTime;"	Talan ";5;0
+234557;Ayanna;Snyder;Ayanna.Snyder@supinfo.com;F;France;Mâcon;28/08/1996;16/02/2020;13/04/2021;10/08/2021;Developer Fullstack;Train;14;NA;True;Often;True;InternshipPro;"	Apple ";2;2
+234558;TaShya;Moreno;TaShya.Moreno@supinfo.com;F;France;Caen;06/07/1995;12/08/2021;17/03/2021;01/02/2021;Developer Front;Bike;10;Rating;False;Absent;False;PartTime;"	Google ";2;4
+234559;Norman;Lambert;Norman.Lambert@supinfo.com;M;France;Rouen;21/10/1996;21/12/2019;17/11/2020;14/06/2020;Admin Sys;Train;20;NA;True;Always;True;InternshipPro;"	LINKBYNET ";5;8
+234560;Arsenio;Rodgers;Arsenio.Rodgers@supinfo.com;M;France;Amiens;14/09/1993;28/02/2020;10/06/2020;22/03/2020;IT Engineer;Car;7;Rating;False;Delayed;False;PartTime;"	Gfi world ";0;8
+234561;Zane;Glass;Zane.Glass@supinfo.com;M;France;Saint-Denis;23/10/1995;22/03/2020;08/11/2020;08/01/2021;Developer Backend;Walk;14;NA;True;Often;False;FullTime;"	Computech ";2;9
+234562;Sharon;Case;Sharon.Case@supinfo.com;F;France;Ajaccio;08/12/1993;15/05/2020;21/02/2020;09/01/2020;Design UX/UI;Car;13;NA;True;Often;False;PartTime;"	EXAKIS NELITE ";1;3
+234563;Simone;Vega;Simone.Vega@supinfo.com;F;France;Ajaccio;07/12/1994;09/12/2021;04/05/2021;13/08/2021;Admin Sys;Walk;2;Rating;False;Absent;False;FullTime;"	Google ";2;10
+234564;Noble;Hoffman;Noble.Hoffman@supinfo.com;M;France;Alès;07/09/1996;05/10/2021;03/03/2021;04/07/2021;Linux Architect;Bike;9;Rating;False;Delayed;True;InternshipPro;"	Adlere ";4;2
+234565;Ria;Holloway;Ria.Holloway@supinfo.com;F;France;Béziers;04/04/1992;02/05/2021;23/01/2021;29/03/2020;Developer Backend;Train;10;NA;True;Often;False;PartTime;"	SPIE ICS ";3;6
+234566;Amir;Combs;Amir.Combs@supinfo.com;M;France;Rennes;16/05/1994;27/11/2020;09/12/2020;10/08/2020;Admin Sys;Car;9;Rating;False;Delayed;False;PartTime;"	elsan";0;0
+234567;Elliott;Rodgers;Elliott.Rodgers@supinfo.com;M;France;Abbeville;03/03/1997;10/11/2021;06/08/2020;13/04/2020;IT Engineer;Walk;9;Rating;False;Delayed;False;PartTime;"	Thales ";5;5
+234568;Magee;Hooper;Magee.Hooper@supinfo.com;F;France;Montigny-lès-Metz;02/08/1996;09/06/2021;09/02/2020;24/10/2020;Developer Backend;Car;8;Rating;False;Delayed;False;FullTime;"	Sogeti ";5;3
+234569;Yeo;Blair;Yeo.Blair@supinfo.com;M;France;Haguenau;25/05/1992;15/05/2020;23/07/2020;04/06/2020;Developer Front;Bike;5;Rating;False;Absent;False;PartTime;"	Lyreco ";2;5
+234570;Haviva;Bradford;Haviva.Bradford@supinfo.com;F;France;Saint-Étienne-du-Rouvray;12/10/1993;04/05/2020;07/08/2020;16/01/2021;IT Engineer;Car;20;NA;True;Always;True;InternshipPro;"	SPIE ICS ";2;3
+234571;Imogene;Bruce;Imogene.Bruce@supinfo.com;M;France;Calais;12/03/1995;14/03/2021;31/10/2021;04/05/2020;Admin Sys;Train;17;NA;True;Often;False;PartTime;Capgemini ;3;2
+234572;Thor;Jordan;Thor.Jordan@supinfo.com;M;France;Dijon;16/05/1997;28/12/2019;19/04/2021;28/05/2021;Design UX/UI;Train;12;NA;True;Delayed;False;PartTime;"	Desjardins ";4;3
+234573;Kendall;Beard;Kendall.Beard@supinfo.com;F;France;Maubeuge;14/10/1991;16/10/2021;24/06/2020;14/07/2020;IT Engineer;Bike;12;NA;True;Always;True;InternshipPro;"	Worldline Global ";2;10
+234574;Kessie;Meadows;Kessie.Meadows@supinfo.com;F;France;Tarbes;20/12/1990;07/04/2020;17/12/2019;23/03/2020;Data Anlalyst;Walk;19;NA;True;Always;True;InternshipPro;"	Modis ";4;6
+234575;Katelyn;Flowers;Katelyn.Flowers@supinfo.com;F;France;Cherbourg-Octeville;22/02/1991;12/02/2020;03/04/2021;09/05/2020;Developer Fullstack;Bike;16;NA;True;Often;False;FullTime;"	GPMJ ";4;10
+234576;Hall;Joyce;Hall.Joyce@supinfo.com;M;France;Saint-Lô;20/09/1991;31/05/2021;30/11/2021;26/04/2020;Linux Architect;Car;8;Rating;False;Delayed;False;FullTime;"	Worldline Global ";0;3
+234577;Clio;Berry;Clio.Berry@supinfo.com;M;France;Reims;02/11/1993;22/05/2021;12/06/2021;12/12/2019;Linux Architect;Walk;14;NA;True;Often;True;InternshipPro;"	Néo-Soft Groupe ";3;3
+234578;Leslie;Sandoval;Leslie.Sandoval@supinfo.com;F;France;Aubervilliers;15/11/1995;09/08/2020;24/07/2021;07/08/2020;Data Anlalyst;Train;18;NA;True;Always;True;InternshipPro;"	Atos ";2;4
+234579;Alec;Hunter;Alec.Hunter@supinfo.com;M;France;Saint-Malo;03/06/1997;28/09/2021;18/07/2021;28/05/2020;Developer Front;Car;7;Rating;False;Delayed;False;PartTime;"	Dailymotion ";2;1
+234580;Taylor;Christian;Taylor.Christian@supinfo.com;M;France;Dunkerque;19/12/1995;02/07/2021;01/09/2020;14/10/2020;IT Engineer;Walk;1;Rating;False;Absent;False;PartTime;"	SPIE ICS ";2;9
+234581;Yoshi;Lopez;Yoshi.Lopez@supinfo.com;M;France;Saintes;27/02/1996;27/06/2020;14/03/2021;06/05/2021;Linux Architect;Walk;19;NA;True;Always;True;InternshipPro;"	Alten ";5;1
+234582;Isaiah;Bond;Isaiah.Bond@supinfo.com;M;France;Laval;18/12/1997;22/06/2021;26/08/2020;14/06/2020;Developer Fullstack;Walk;6;Rating;False;Absent;False;FullTime;"	Dailymotion ";2;10
+234583;Allegra;Nguyen;Allegra.Nguyen@supinfo.com;F;France;Sarreguemines;04/06/1997;24/10/2021;20/09/2020;24/11/2020;Developer Backend;Bike;17;NA;True;Often;True;InternshipPro;"	Criteo ";4;2
+234584;Francesca;Mercer;Francesca.Mercer@supinfo.com;F;France;Colmar;31/01/1994;07/05/2020;26/03/2020;03/06/2021;Linux Architect;Walk;7;Rating;False;Delayed;False;FullTime;"	Gfi world ";1;4
+234585;Neil;Lang;Neil.Lang@supinfo.com;M;France;Bourges;01/06/1995;19/10/2020;18/09/2020;21/12/2019;Developer Backend;Train;20;NA;True;Always;True;InternshipPro;"	Insight ";3;1
+234586;Hilda;Wiggins;Hilda.Wiggins@supinfo.com;F;France;Dole;22/06/1996;26/09/2021;20/05/2020;12/04/2020;Admin Sys;Car;10;NA;True;Delayed;False;PartTime;"	PROLIVAL ";4;0
+234587;Ferdinand;Mendez;Ferdinand.Mendez@supinfo.com;M;France;Saint-Quentin;11/09/1991;11/03/2021;30/10/2021;28/01/2021;Developer Fullstack;Walk;10;Rating;False;Absent;False;FullTime;"	Cat-Amania ";5;10
+234588;Igor;Casey;Igor.Casey@supinfo.com;M;France;Vichy;28/08/1993;25/04/2020;08/06/2021;20/09/2020;Linux Architect;Car;15;NA;True;Often;False;FullTime;"	L'Oréal ";4;9
+234589;Tatiana;Newton;Tatiana.Newton@supinfo.com;F;France;Montreuil;11/05/1996;30/12/2020;15/01/2021;27/02/2020;Developer Front;Walk;7;Rating;False;Delayed;True;InternshipPro;"	Cat-Amania ";3;1
+234590;Reed;Mejia;Reed.Mejia@supinfo.com;M;France;Rodez;24/07/1997;16/05/2020;02/08/2021;06/06/2021;Design UX/UI;Train;6;Rating;False;Delayed;True;InternshipPro;"	Umanis ";0;2
+234591;Haviva;Mcguire;Haviva.Mcguire@supinfo.com;F;France;Montluçon;16/05/1992;10/04/2021;05/07/2021;09/12/2020;Linux Architect;Walk;2;Rating;False;Absent;False;FullTime;"	Sogeti ";5;8
+234592;Zachary;Douglas;Zachary.Douglas@supinfo.com;M;France;Limoges;08/09/1997;23/07/2020;25/12/2019;25/05/2020;Developer Front;Bike;10;Rating;False;Delayed;True;InternshipPro;"	Qim info SA ";3;1
+234593;Hector;Chapman;Hector.Chapman@supinfo.com;M;France;Chalon-sur-Saône;23/03/1992;27/04/2021;13/07/2021;30/05/2020;Data Anlalyst;Train;1;Rating;False;Absent;False;PartTime;"	Insight ";1;9
+234594;Yuri;Randolph;Yuri.Randolph@supinfo.com;M;France;Compiègne;19/11/1997;07/04/2020;25/06/2021;27/10/2020;Linux Architect;Car;20;NA;True;Always;True;InternshipPro;"	Talan ";2;10
+234595;Aristotle;Thornton;Aristotle.Thornton@supinfo.com;M;France;Auxerre;22/07/1995;13/02/2021;29/08/2021;10/01/2021;Design UX/UI;Bike;10;NA;True;Often;False;FullTime;"	L'Oréal ";2;9
+234596;Kyle;Chapman;Kyle.Chapman@supinfo.com;M;France;Rodez;05/09/1996;29/12/2020;28/12/2020;25/04/2021;Developer Front;Bike;9;Rating;False;Delayed;False;FullTime;"	PROLIVAL ";3;3
+234597;Fuller;Sparks;Fuller.Sparks@supinfo.com;M;France;Agen;25/07/1995;27/05/2021;16/06/2020;27/10/2021;Developer Front;Bike;14;NA;True;Often;True;InternshipPro;"	leboncoin ";2;0
+234598;Lesley;Mcguire;Lesley.Mcguire@supinfo.com;F;France;Issy-les-Moulineaux;22/01/1994;09/12/2020;29/07/2020;08/11/2021;Linux Architect;Car;2;Rating;False;Absent;False;FullTime;"	Apple ";2;5
+234599;Harrison;Doyle;Harrison.Doyle@supinfo.com;M;France;Saint-Étienne-du-Rouvray;03/03/1996;23/11/2020;12/04/2020;08/09/2021;Data Anlalyst;Car;11;NA;True;Always;False;PartTime;"	Axway ";2;9
+234600;Ruby;Wolf;Ruby.Wolf@supinfo.com;F;France;Perpignan;11/07/1991;25/12/2020;27/04/2020;03/04/2021;Developer Backend;Walk;7;Rating;False;Delayed;False;PartTime;"	Microsoft ";1;3
+234601;Hadassah;Everett;Hadassah.Everett@supinfo.com;F;France;La Rochelle;03/06/1998;02/11/2021;17/11/2020;03/12/2020;IT Engineer;Walk;5;Rating;False;Absent;False;PartTime;"	leboncoin ";5;7
+234602;Heather;Roberts;Heather.Roberts@supinfo.com;M;France;Saint-Louis;06/01/1996;04/08/2021;19/08/2021;02/04/2020;Data Anlalyst;Bike;17;NA;True;Often;True;InternshipPro;"	CGI ";5;4
+234603;Elijah;Collins;Elijah.Collins@supinfo.com;M;France;Angoulême;02/02/1991;07/12/2021;11/01/2020;07/04/2020;Developer Fullstack;Walk;11;NA;True;Delayed;True;InternshipPro;"	Atos ";1;0
+234604;Mechelle;Cohen;Mechelle.Cohen@supinfo.com;F;France;Belfort;20/09/1992;30/07/2021;29/03/2021;14/12/2019;Data Anlalyst;Walk;15;NA;True;Often;False;FullTime;"	Microsoft ";5;8
+234605;Kerry;Ramos;Kerry.Ramos@supinfo.com;F;France;Strasbourg;22/01/1996;14/04/2021;02/01/2021;14/05/2020;IT Engineer;Walk;8;Rating;False;Delayed;False;PartTime;"	Sopra Steria ";2;2
+234606;Ria;Cochran;Ria.Cochran@supinfo.com;F;France;Mâcon;25/11/1998;03/11/2020;09/08/2021;30/12/2019;Admin Sys;Bike;13;NA;False;Often;False;FullTime;"	LINKBYNET ";2;10
+234607;Zeph;Mccoy;Zeph.Mccoy@supinfo.com;M;France;Calais;16/12/1994;18/10/2020;14/11/2021;23/02/2020;IT Engineer;Train;7;Rating;False;Delayed;False;PartTime;"	Extia ";3;7
+234608;Xenos;Blanchard;Xenos.Blanchard@supinfo.com;M;France;Nevers;08/05/1993;28/07/2021;04/06/2020;29/04/2020;Admin Sys;Train;9;Rating;False;Delayed;True;InternshipPro;"	Apple ";4;7
+234609;Maya;Pittman;Maya.Pittman@supinfo.com;F;France;Rodez;22/07/1997;10/03/2020;29/06/2021;11/01/2021;Data Anlalyst;Train;13;NA;True;Often;True;InternshipPro;"	Oracle ";5;4
+234610;Roary;Winters;Roary.Winters@supinfo.com;F;France;Marseille;16/11/1998;05/05/2020;23/12/2019;04/04/2021;Admin Sys;Train;10;NA;True;Often;True;InternshipPro;"	Insight ";1;5
+234611;Harrison;Gay;Harrison.Gay@supinfo.com;M;France;Castres;10/04/1994;06/12/2021;05/12/2020;13/04/2020;Developer Front;Bike;1;Rating;False;Absent;False;PartTime;"	Banque de France ";5;0
+234612;Kyle;Preston;Kyle.Preston@supinfo.com;M;France;Tarbes;19/02/1993;04/08/2020;19/05/2021;13/06/2020;Developer Backend;Car;18;NA;True;Often;True;InternshipPro;"	ENGIE ";5;9
+234613;Rhoda;Huff;Rhoda.Huff@supinfo.com;F;France;Tarbes;14/06/1995;13/03/2021;31/01/2020;14/08/2020;Admin Sys;Walk;3;Rating;False;Absent;False;PartTime;"	Orange ";2;3
+234614;Doris;Case;Doris.Case@supinfo.com;M;France;Blois;09/09/1996;12/11/2020;19/05/2021;21/02/2020;Linux Architect;Car;13;NA;True;Delayed;True;InternshipPro;"	Banque de France ";3;0
+234615;Tiger;Olsen;Tiger.Olsen@supinfo.com;M;France;Alès;31/07/1991;20/02/2020;16/02/2021;15/05/2020;Linux Architect;Train;1;Rating;False;Absent;False;FullTime;"	SPIE ICS ";2;10
+234616;Hedley;Santana;Hedley.Santana@supinfo.com;M;France;Villenave-d'Ornon;23/11/1993;14/04/2020;28/01/2021;09/04/2020;Developer Fullstack;Car;4;Rating;False;Delayed;False;PartTime;"	OCTO technology ";3;4
+234617;Macon;Cochran;Macon.Cochran@supinfo.com;M;France;Strasbourg;03/05/1993;26/06/2020;21/06/2020;25/04/2020;Design UX/UI;Walk;18;NA;True;Always;True;InternshipPro;"	Sopra Steria ";0;5
+234618;Lacy;Solomon;Lacy.Solomon@supinfo.com;F;France;Carcassonne;14/04/1998;26/08/2021;07/01/2021;12/03/2021;Design UX/UI;Train;11;NA;True;Delayed;True;InternshipPro;"	C17 Engineering ";0;7
+234619;Mufutau;Price;Mufutau.Price@supinfo.com;M;France;Rodez;11/05/1997;01/12/2021;28/04/2020;07/05/2020;Linux Architect;Bike;5;Rating;False;Delayed;False;PartTime;"	Umanis ";2;8
+234620;Rebekah;Gallagher;Rebekah.Gallagher@supinfo.com;F;France;Vandoeuvre-lès-Nancy;05/10/1998;26/12/2019;20/05/2020;27/06/2021;Developer Front;Bike;8;Rating;False;Delayed;True;InternshipPro;"	ENGIE ";0;10
+234621;Sheila;Evans;Sheila.Evans@supinfo.com;F;France;Colmar;10/10/1997;12/06/2021;24/03/2021;27/12/2019;Data Anlalyst;Bike;5;Rating;False;Absent;False;PartTime;"	Neoness ";3;5
+234622;Abdul;Delacruz;Abdul.Delacruz@supinfo.com;M;France;Joué-lès-Tours;29/05/1996;19/12/2019;31/07/2020;10/04/2021;Admin Sys;Train;16;NA;True;Often;False;FullTime;"	AUTO1 Group ";2;2
+234623;Anastasia;Frank;Anastasia.Frank@supinfo.com;F;France;Rueil-Malmaison;06/09/1993;27/12/2019;14/02/2021;15/11/2021;Developer Backend;Bike;14;NA;True;Often;True;InternshipPro;"	C17 Engineering ";3;6
+234624;Daphne;Harrell;Daphne.Harrell@supinfo.com;F;France;Lanester;09/11/1995;07/11/2020;05/01/2021;09/02/2020;Developer Fullstack;Car;12;NA;True;Delayed;True;InternshipPro;"	Société Générale ";3;6
+234625;Owen;Dominguez;Owen.Dominguez@supinfo.com;M;France;Lunel;03/01/1996;12/04/2021;05/12/2021;10/04/2020;Admin Sys;Train;20;NA;True;Always;True;InternshipPro;"	Société Générale ";4;9
+234626;Raymond;Melton;Raymond.Melton@supinfo.com;M;France;Alençon;17/05/1997;25/08/2021;27/11/2021;03/05/2021;Developer Backend;Car;19;NA;True;Always;True;InternshipPro;"	OPEN ";4;4
+234627;Rana;Lee;Rana.Lee@supinfo.com;F;France;Dole;17/04/1991;17/06/2021;05/05/2021;16/06/2020;Admin Sys;Bike;10;Rating;False;Delayed;False;FullTime;"	AUTO1 Group ";0;4
+234628;Quin;Buckley;Quin.Buckley@supinfo.com;M;France;Bayonne;29/06/1991;18/09/2021;28/04/2020;06/01/2021;IT Engineer;Walk;4;Rating;False;Absent;False;PartTime;"	OCTO technology ";5;10
+234629;Madison;Farmer;Madison.Farmer@supinfo.com;F;France;Rezé;09/02/1997;17/01/2021;27/05/2021;16/12/2020;IT Engineer;Train;14;NA;True;Often;True;InternshipPro;"	Alten ";5;10
+234630;Arthur;Richardson;Arthur.Richardson@supinfo.com;M;France;Châteauroux;30/01/1998;13/05/2020;15/08/2021;11/03/2020;IT Engineer;Bike;8;Rating;False;Absent;True;InternshipPro;"	Qim info SA ";4;3
+234631;Lee;Mayer;Lee.Mayer@supinfo.com;M;France;Troyes;20/08/1993;16/06/2021;23/03/2020;02/02/2021;Developer Front;Train;4;Rating;False;Absent;False;FullTime;"	Astek ";1;10
+234632;Kendall;Stone;Kendall.Stone@supinfo.com;F;France;Vandoeuvre-lès-Nancy;06/07/1997;15/02/2020;30/05/2020;04/04/2020;Data Anlalyst;Walk;20;NA;True;Always;True;InternshipPro;"	Société Générale ";0;8
+234633;Odessa;Luna;Odessa.Luna@supinfo.com;F;France;Bourges;08/02/1994;28/03/2021;13/01/2020;11/06/2021;Developer Front;Walk;15;NA;True;Often;False;FullTime;"	Euro-information ";5;3
