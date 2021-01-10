@@ -1,9 +1,30 @@
-## Install
+## Requirements
 
-Pour lancer le projet, configurer l'emplacement de la base mongoDb dans le fichier de config /5data-api/config/database.config.js
-Executer les commandes :
-- npm install dans les dossiers 5data
-- npm start dans les dossiers 5data
+NodeJs : ^12.14.1
+Npm : ^6.13.4
+Git: ^2.29.2
+MongoDb Compass: ^1.24.6
+
+## Stock datasets
+
+Créer une bdd MongoDb qui se nomme SupData.
+
+Importer les datasets présent dans MongoDB en respectant cette convention de nommage pour les tables : 
+
+- le dataset etudiant doit être importer dans une table qui se nomme "students"
+- le dataset company doit être importer dans une table qui se nomme "companies"
+
+## Dependences & Installation
+
+Télécharger les dépendences du projet à l'aide de Npm : 
+
+- Dans le dossier : 5Data > 5data-api éxécuter la commande : "npm install"
+- Dans le dossier : 5Data > 5data-front éxécuter la commande : "npm install"
+
+Lancer le projet avec node : 
+
+- Dans le dossier : 5Data > 5data-api éxécuter la commande : "npm start"
+- Dans le dossier : 5Data > 5data-front éxécuter la commande : "ng serve"
 
 ## Questions ? 
 
