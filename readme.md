@@ -20,6 +20,7 @@ Télécharger les dépendences du projet à l'aide de Npm :
 
 - Dans le dossier : 5Data > 5data-api éxécuter la commande : "npm install"
 - Dans le dossier : 5Data > 5data-front éxécuter la commande : "npm install"
+- Dans le dossier : 5Data > 5data-front éxécuter la commande : "npm install -g @angular/cli"
 
 Lancer le projet avec node : 
 
