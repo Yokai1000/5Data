@@ -9,7 +9,7 @@ const EntrepriseSchema = mongoose.Schema(
         Supinfo_Employees: Number,
         Supinfo_intern: Number
     },
-    { collection: 'entreprise' } 
+    { collection: 'companies' } 
 );
 
 module.exports = mongoose.model('Entreprise', EntrepriseSchema);
