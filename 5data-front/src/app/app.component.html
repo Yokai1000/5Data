@@ -1,4 +1,4 @@
-<mat-toolbar class="extend-toolbar">
+<!-- <mat-toolbar class="extend-toolbar">
   <span>
     <a [routerLink]="['/']">home</a>
   </span>
@@ -7,8 +7,19 @@
     <a [routerLink]="['/time-evolution']">Time Evolution</a>
     <a [routerLink]="['/student-list']">Student List</a>
   </span>
-</mat-toolbar>
+</mat-toolbar>--->
+
+<nav>
+  <div class="nav-wrapper">
+    <a [routerLink]="['/']" style="font-size: x-large;">☁️ SupData</a>
+    <ul class="right hide-on-med-and-down" style="display: flex;">
+      <a [routerLink]="['/time-evolution']">Time Evolution</a>
+      <a [routerLink]="['/student-list']">Student List</a>
+    </ul>
+  </div>
+</nav>
 
 <section>
   <router-outlet></router-outlet>
-</section>
+</section> 
+

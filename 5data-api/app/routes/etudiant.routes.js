@@ -9,7 +9,7 @@ module.exports = app => {
 
   app.get('/etudiants/success', etudiants.getSuccessfullStudent);
 
-  app.get('/etudiants/success/graph', etudiants.getGraphOfSuccessfullStudent);
-  // app.get('/etudiants/CountByYear/Gender', etudiants.CountByYearGroupedByGender);
+  // app.get('/etudiants/success/graph', etudiants.getGraphOfSuccessfullStudent);
+  app.get('/etudiants/stopped', etudiants.getStoppedStudents);
   // app.get('/etudiants/CountByYear/Domain', etudiants.CountByYearGroupedByDomain);
 };

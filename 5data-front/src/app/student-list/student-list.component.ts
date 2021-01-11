@@ -4,7 +4,7 @@ import { HttpClient } from "@angular/common/http";
 @Component({
   selector: "app-student-list",
   templateUrl: "./student-list.component.html",
-  styleUrls: ["./student-list.component.scss"]
+  styleUrls: ["../../materialize.css"]
 })
 export class StudentListComponent implements OnInit {
   private students: any;
@@ -33,9 +33,9 @@ export class StudentListComponent implements OnInit {
         this.students = students;
       });
   }
-  getGraphSuccessFullStuden(event: Event){
+  getStoppedStudent(event: Event){
     this._http
-    .get("http://localhost:3000/etudiants/success/graph")
+    .get("http://localhost:3000/etudiants/stopped/")
     .subscribe(students => {
       this.students = students;
     })

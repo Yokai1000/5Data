@@ -22,7 +22,6 @@ const EtudiantSchema = mongoose.Schema(
     Internship_Pro: String,
     Contract_Type: String,
     Recrutment_Nbr: Number,
-    Mail_Supinfo: String,
     Recrutment_Salon: Boolean
   },
   { collection: 'students' }

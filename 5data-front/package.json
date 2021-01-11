@@ -24,6 +24,7 @@
     "angular-highcharts": "^8.0.3",
     "highcharts": "^8.0.0",
     "highcharts-angular": "^2.4.0",
+    "materialize-css": "^1.0.0-rc.2",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"

@@ -6,7 +6,6 @@ import { HttpClientModule } from "@angular/common/http";
 // MATERIAL DESIGN MODULES
 import {
   MatToolbarModule,
-  MatCardModule,
   MatTabsModule,
   MatButtonModule,
   MatInputModule,
@@ -20,7 +19,8 @@ import {
 import { ChartModule } from "angular-highcharts";
 
 import { APP_ROUTES } from "./app.routes";
-import { AppComponent } from "./app.component";
+import { AppComponent } from
+ "./app.component";
 import { HomeComponent } from "./home";
 import { TimeEvolutionComponent } from "./time-evolution";
 import { CampusComponent } from "./campus";
@@ -39,7 +39,6 @@ import { HighchartsService } from "./service/highcharts.service";
   ],
   imports: [
     MatToolbarModule,
-    MatCardModule,
     MatTabsModule,
     MatButtonModule,
     MatInputModule,
