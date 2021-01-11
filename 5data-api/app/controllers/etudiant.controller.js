@@ -32,7 +32,7 @@ exports.getSuccessfullStudent = (req, res) => {
 // 2 - Who are the students who stop their studies and why
 exports.getStoppedStudents = (req,res) => {
   Etudiant.find({
-    Interruption_Reason: { $exists: true, $not: {$size: 0}}
+    "Interruption_Reason": { $ne: "NA"}
   }).then(etudiants => {
     res.send(etudiants);
   }).catch(err => {
