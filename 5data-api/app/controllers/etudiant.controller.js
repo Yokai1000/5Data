@@ -34,7 +34,7 @@ exports.getStoppedStudents = (req,res) => {
   Etudiant.find({
     "Interruption_Reason": { $ne: "NA"}
   }).then(etudiants => {
-    res.send(etudiants);
+    res.send(etudiants.slice(0,15));
   }).catch(err => {
     res.status(500).send({
       message: err.message || 'error in the api'
