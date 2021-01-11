@@ -1,101 +1,101 @@
-ID,First_Name,Last_Name,Email,Gender,Country,City,Birth_date,Subscription_Date,Exit_Date,Hire_Date,Study_Domain,Mobility,General_Mean,Interruption_Reason,Graduation,Presence,Internship_Pro,Contract_Type,Company_Name,Recrutement_Salon,Recrutment_Nbr,Campus
-234534,Chester,Ratliff,Chester.Ratliff@supinfo.com,M,France,Schiltigheim,20/11/95,02/03/20,07/09/21,29/08/20,IT Engineer,Walk,19,NA,TRUE,Always,TRUE,InternshipPro, Modis ,4,0,Paris
-234535,Callum,Crosby,Callum.Crosby@supinfo.com,M,France,Montpellier,21/01/97,09/02/21,21/10/21,23/08/21,Developer Backend,Walk,6,Rating,FALSE,Delayed,FALSE,PartTime, CHEOPS Technology ,3,3,Caen
-234536,Grady,Dean,Grady.Dean@supinfo.com,F,France,Soissons,30/10/93,22/07/20,20/03/20,23/04/21,Design UX/UI,Car,16,NA,TRUE,Often,FALSE,PartTime, CGI ,5,9,Lille
-234537,Leonard,Best,Leonard.Best@supinfo.com,M,France,Amiens,17/09/92,15/03/21,25/07/21,25/08/21,Linux Architect,Train,13,NA,TRUE,Delayed,TRUE,InternshipPro, davidson consulting ,1,0,Lyon
-234538,Heidi,Hopper,Heidi.Hopper@supinfo.com,F,France,Bastia,20/08/92,21/06/21,28/02/20,25/11/21,Developer Backend,Bike,4,Rating,FALSE,Absent,FALSE,PartTime, C17 Engineering ,5,0,Tours
-234539,Rafael,Stuart,Rafael.Stuart@supinfo.com,M,France,Bastia,06/01/95,03/12/20,26/11/20,04/02/20,IT Engineer,Car,5,Rating,FALSE,Often,FALSE,PartTime, Dailymotion ,0,10,Paris
-234540,Amena,Valentine,Amena.Valentine@supinfo.com,F,France,Le Grand-Quevilly,23/09/98,14/08/20,12/05/20,16/06/20,Developer Backend,Train,10,NA,TRUE,Delayed,TRUE,InternshipPro, Devoteam ,1,9,Caen
-234541,Richard,Mclaughlin,Richard.Mclaughlin@supinfo.com,M,France,Châteauroux,13/11/94,14/06/20,16/08/21,09/02/20,Developer Front,Bike,14,NA,TRUE,Often,TRUE,InternshipPro, Talan ,3,10,Lille
-234542,Unity,Walsh,Unity.Walsh@supinfo.com,M,France,Besançon,06/10/98,13/10/21,23/03/21,24/10/20,Developer Fullstack,Train,6,Rating,FALSE,Absent,FALSE,FullTime, Decathlon ,3,10,Lyon
-234543,Alyssa,Willis,Alyssa.Willis@supinfo.com,F,France,Thionville,08/11/95,08/10/20,18/08/20,02/08/21,Linux Architect,Bike,8,Rating,FALSE,Absent,FALSE,PartTime, Total ,5,8,Tours
-234544,Madaline,Harding,Madaline.Harding@supinfo.com,F,France,Évreux,27/03/91,15/04/20,08/09/20,30/03/21,IT Engineer,Train,12,NA,TRUE,Absent,FALSE,FullTime, IBM ,3,1,Paris
-234545,Abraham,Coffey,Abraham.Coffey@supinfo.com,M,France,Boulogne-Billancourt,05/09/91,30/10/21,11/12/21,20/07/20,Admin Sys,Walk,5,Rating,FALSE,Absent,FALSE,PartTime, Airbus ,3,3,Caen
-234546,Kibo,Torres,Kibo.Torres@supinfo.com,M,France,Brive-la-Gaillarde,22/09/98,18/10/20,28/04/20,16/03/21,Data Anlalyst,Car,18,Rating,FALSE,Often,TRUE,InternshipPro, Altran ,4,3,Lille
-234547,Quinlan,Mccormick,Quinlan.Mccormick@supinfo.com,M,France,Colmar,02/04/95,03/12/21,27/06/21,25/10/20,Admin Sys,Train,7,Rating,FALSE,Delayed,TRUE,InternshipPro, CHEOPS Technology ,3,0,Lyon
-234548,Keely,Baird,Keely.Baird@supinfo.com,F,France,Lisieux,20/05/94,04/10/21,13/01/20,25/08/20,Admin Sys,Car,13,NA,TRUE,Delayed,TRUE,InternshipPro, Extia ,0,7,Tours
-234549,Axel,Rivas,Axel.Rivas@supinfo.com,M,France,Charleville-Mézières,18/11/98,12/02/21,10/03/20,25/02/21,Design UX/UI,Train,18,NA,TRUE,Often,FALSE,FullTime, C17 Engineering ,3,2,Paris
-234550,Kyle,Hooper,Kyle.Hooper@supinfo.com,M,France,Sens,02/04/96,02/05/20,26/07/20,20/01/20,Admin Sys,Car,7,Rating,FALSE,Always,TRUE,InternshipPro, Decathlon ,3,9,Caen
-234551,Bell,Rice,Bell.Rice@supinfo.com,M,France,Brive-la-Gaillarde,10/06/93,06/02/20,21/11/20,06/05/20,Data Anlalyst,Car,17,Rating,TRUE,Often,TRUE,InternshipPro, Cat-Amania ,1,3,Paris
-234552,Savannah,Jarvis,Savannah.Jarvis@supinfo.com,F,France,Mont-de-Marsan,20/09/96,16/03/20,14/03/20,02/11/21,Developer Fullstack,Train,20,NA,TRUE,Always,TRUE,InternshipPro, CGI ,3,2,Caen
-234553,Megan,Henderson,Megan.Henderson@supinfo.com,F,France,Courbevoie,14/08/94,27/05/20,02/05/21,23/05/21,Admin Sys,Bike,5,Rating,FALSE,Delayed,FALSE,FullTime, Hewlett Packard Enterprise ,4,4,Lille
-234554,Angelica,Ortega,Angelica.Ortega@supinfo.com,F,France,Rennes,21/03/93,25/02/21,23/04/21,22/08/20,Developer Backend,Walk,6,Rating,FALSE,Delayed,FALSE,PartTime, Qim info SA ,0,6,Lyon
-234555,Maxine,Pollard,Maxine.Pollard@supinfo.com,M,France,Lunel,11/05/93,15/11/21,20/04/20,02/11/20,Admin Sys,Train,12,NA,TRUE,Absent,FALSE,FullTime, leboncoin ,0,8,Tours
-234556,Martina,Bolton,Martina.Bolton@supinfo.com,F,France,Ajaccio,06/12/95,09/06/20,18/11/20,20/09/20,Admin Sys,Car,19,Rating,FALSE,Often,FALSE,PartTime, Talan ,5,0,Paris
-234557,Ayanna,Snyder,Ayanna.Snyder@supinfo.com,F,France,Mâcon,28/08/96,16/02/20,13/04/21,10/08/21,Developer Fullstack,Train,14,NA,TRUE,Often,TRUE,InternshipPro, Apple ,2,2,Caen
-234558,TaShya,Moreno,TaShya.Moreno@supinfo.com,F,France,Caen,06/07/95,12/08/21,17/03/21,01/02/21,Developer Front,Bike,10,Rating,FALSE,Absent,FALSE,PartTime, Google ,2,4,Lille
-234559,Norman,Lambert,Norman.Lambert@supinfo.com,M,France,Rouen,21/10/96,21/12/19,17/11/20,14/06/20,Admin Sys,Train,20,NA,TRUE,Always,TRUE,InternshipPro, LINKBYNET ,5,8,Lyon
-234560,Arsenio,Rodgers,Arsenio.Rodgers@supinfo.com,M,France,Amiens,14/09/93,28/02/20,10/06/20,22/03/20,IT Engineer,Car,7,Rating,FALSE,Delayed,FALSE,PartTime, Gfi world ,0,8,Paris
-234561,Zane,Glass,Zane.Glass@supinfo.com,M,France,Saint-Denis,23/10/95,22/03/20,08/11/20,08/01/21,Developer Backend,Walk,14,NA,TRUE,Often,FALSE,FullTime, Computech ,2,9,Caen
-234562,Sharon,Case,Sharon.Case@supinfo.com,F,France,Ajaccio,08/12/93,15/05/20,21/02/20,09/01/20,Design UX/UI,Car,13,NA,TRUE,Often,FALSE,PartTime, EXAKIS NELITE ,1,3,Lille
-234563,Simone,Vega,Simone.Vega@supinfo.com,F,France,Ajaccio,07/12/94,09/12/21,04/05/21,13/08/21,Admin Sys,Walk,2,Rating,FALSE,Absent,FALSE,FullTime, Google ,2,10,Lyon
-234564,Noble,Hoffman,Noble.Hoffman@supinfo.com,M,France,Alès,07/09/96,05/10/21,03/03/21,04/07/21,Linux Architect,Bike,9,Rating,FALSE,Delayed,TRUE,InternshipPro, Adlere ,4,2,Tours
-234565,Ria,Holloway,Ria.Holloway@supinfo.com,F,France,Béziers,04/04/92,02/05/21,23/01/21,29/03/20,Developer Backend,Train,10,NA,TRUE,Often,FALSE,PartTime, SPIE ICS ,3,6,Paris
-234566,Amir,Combs,Amir.Combs@supinfo.com,M,France,Rennes,16/05/94,27/11/20,09/12/20,10/08/20,Admin Sys,Car,9,Rating,FALSE,Delayed,FALSE,PartTime, elsan,0,0,Caen
-234567,Elliott,Rodgers,Elliott.Rodgers@supinfo.com,M,France,Abbeville,03/03/97,10/11/21,06/08/20,13/04/20,IT Engineer,Walk,9,Rating,FALSE,Delayed,FALSE,PartTime, Thales ,5,5,Lille
-234568,Magee,Hooper,Magee.Hooper@supinfo.com,F,France,Montigny-lès-Metz,02/08/96,09/06/21,09/02/20,24/10/20,Developer Backend,Car,8,Rating,FALSE,Delayed,FALSE,FullTime, Sogeti ,5,3,Lyon
-234569,Yeo,Blair,Yeo.Blair@supinfo.com,M,France,Haguenau,25/05/92,15/05/20,23/07/20,04/06/20,Developer Front,Bike,5,Rating,FALSE,Absent,FALSE,PartTime, Lyreco ,2,5,Tours
-234570,Haviva,Bradford,Haviva.Bradford@supinfo.com,F,France,Saint-Étienne-du-Rouvray,12/10/93,04/05/20,07/08/20,16/01/21,IT Engineer,Car,20,NA,TRUE,Always,TRUE,InternshipPro, SPIE ICS ,2,3,Paris
-234571,Imogene,Bruce,Imogene.Bruce@supinfo.com,M,France,Calais,12/03/95,14/03/21,31/10/21,04/05/20,Admin Sys,Train,17,NA,TRUE,Often,FALSE,PartTime,Capgemini ,3,2,Caen
-234572,Thor,Jordan,Thor.Jordan@supinfo.com,M,France,Dijon,16/05/97,28/12/19,19/04/21,28/05/21,Design UX/UI,Train,12,NA,TRUE,Delayed,FALSE,PartTime, Desjardins ,4,3,Lille
-234573,Kendall,Beard,Kendall.Beard@supinfo.com,F,France,Maubeuge,14/10/91,16/10/21,24/06/20,14/07/20,IT Engineer,Bike,12,NA,TRUE,Always,TRUE,InternshipPro, Worldline Global ,2,10,Paris
-234574,Kessie,Meadows,Kessie.Meadows@supinfo.com,F,France,Tarbes,20/12/90,07/04/20,17/12/19,23/03/20,Data Anlalyst,Walk,19,NA,TRUE,Always,TRUE,InternshipPro, Modis ,4,6,Caen
-234575,Katelyn,Flowers,Katelyn.Flowers@supinfo.com,F,France,Cherbourg-Octeville,22/02/91,12/02/20,03/04/21,09/05/20,Developer Fullstack,Bike,16,NA,TRUE,Often,FALSE,FullTime, GPMJ ,4,10,Lille
-234576,Hall,Joyce,Hall.Joyce@supinfo.com,M,France,Saint-Lô,20/09/91,31/05/21,30/11/21,26/04/20,Linux Architect,Car,8,Rating,FALSE,Delayed,FALSE,FullTime, Worldline Global ,0,3,Lyon
-234577,Clio,Berry,Clio.Berry@supinfo.com,M,France,Reims,02/11/93,22/05/21,12/06/21,12/12/19,Linux Architect,Walk,14,NA,TRUE,Often,TRUE,InternshipPro, Néo-Soft Groupe ,3,3,Tours
-234578,Leslie,Sandoval,Leslie.Sandoval@supinfo.com,F,France,Aubervilliers,15/11/95,09/08/20,24/07/21,07/08/20,Data Anlalyst,Train,18,NA,TRUE,Always,TRUE,InternshipPro, Atos ,2,4,Paris
-234579,Alec,Hunter,Alec.Hunter@supinfo.com,M,France,Saint-Malo,03/06/97,28/09/21,18/07/21,28/05/20,Developer Front,Car,7,Rating,FALSE,Delayed,FALSE,PartTime, Dailymotion ,2,1,Caen
-234580,Taylor,Christian,Taylor.Christian@supinfo.com,M,France,Dunkerque,19/12/95,02/07/21,01/09/20,14/10/20,IT Engineer,Walk,1,Rating,FALSE,Absent,FALSE,PartTime, SPIE ICS ,2,9,Lille
-234581,Yoshi,Lopez,Yoshi.Lopez@supinfo.com,M,France,Saintes,27/02/96,27/06/20,14/03/21,06/05/21,Linux Architect,Walk,19,NA,TRUE,Always,TRUE,InternshipPro, Alten ,5,1,Lyon
-234582,Isaiah,Bond,Isaiah.Bond@supinfo.com,M,France,Laval,18/12/97,22/06/21,26/08/20,14/06/20,Developer Fullstack,Walk,6,Rating,FALSE,Absent,FALSE,FullTime, Dailymotion ,2,10,Tours
-234583,Allegra,Nguyen,Allegra.Nguyen@supinfo.com,F,France,Sarreguemines,04/06/97,24/10/21,20/09/20,24/11/20,Developer Backend,Bike,17,NA,TRUE,Often,TRUE,InternshipPro, Criteo ,4,2,Lyon
-234584,Francesca,Mercer,Francesca.Mercer@supinfo.com,F,France,Colmar,31/01/94,07/05/20,26/03/20,03/06/21,Linux Architect,Walk,7,Rating,FALSE,Delayed,FALSE,FullTime, Gfi world ,1,4,Tours
-234585,Neil,Lang,Neil.Lang@supinfo.com,M,France,Bourges,01/06/95,19/10/20,18/09/20,21/12/19,Developer Backend,Train,20,NA,TRUE,Always,TRUE,InternshipPro, Insight ,3,1,Lyon
-234586,Hilda,Wiggins,Hilda.Wiggins@supinfo.com,F,France,Dole,22/06/96,26/09/21,20/05/20,12/04/20,Admin Sys,Car,10,NA,TRUE,Delayed,FALSE,PartTime, PROLIVAL ,4,0,Tours
-234587,Ferdinand,Mendez,Ferdinand.Mendez@supinfo.com,M,France,Saint-Quentin,11/09/91,11/03/21,30/10/21,28/01/21,Developer Fullstack,Walk,10,Rating,FALSE,Absent,FALSE,FullTime, Cat-Amania ,5,10,Lyon
-234588,Igor,Casey,Igor.Casey@supinfo.com,M,France,Vichy,28/08/93,25/04/20,08/06/21,20/09/20,Linux Architect,Car,15,NA,TRUE,Often,FALSE,FullTime, L'Oréal ,4,9,Tours
-234589,Tatiana,Newton,Tatiana.Newton@supinfo.com,F,France,Montreuil,11/05/96,30/12/20,15/01/21,27/02/20,Developer Front,Walk,7,Rating,FALSE,Delayed,TRUE,InternshipPro, Cat-Amania ,3,1,Lyon
-234590,Reed,Mejia,Reed.Mejia@supinfo.com,M,France,Rodez,24/07/97,16/05/20,02/08/21,06/06/21,Design UX/UI,Train,6,Rating,FALSE,Delayed,TRUE,InternshipPro, Umanis ,0,2,Lille
-234591,Haviva,Mcguire,Haviva.Mcguire@supinfo.com,F,France,Montluçon,16/05/92,10/04/21,05/07/21,09/12/20,Linux Architect,Walk,2,Rating,FALSE,Absent,FALSE,FullTime, Sogeti ,5,8,Lille
-234592,Zachary,Douglas,Zachary.Douglas@supinfo.com,M,France,Limoges,08/09/97,23/07/20,25/12/19,25/05/20,Developer Front,Bike,10,Rating,FALSE,Delayed,TRUE,InternshipPro, Qim info SA ,3,1,Lille
-234593,Hector,Chapman,Hector.Chapman@supinfo.com,M,France,Chalon-sur-Saône,23/03/92,27/04/21,13/07/21,30/05/20,Data Anlalyst,Train,1,Rating,FALSE,Absent,FALSE,PartTime, Insight ,1,9,Tours
-234594,Yuri,Randolph,Yuri.Randolph@supinfo.com,M,France,Compiègne,19/11/97,07/04/20,25/06/21,27/10/20,Linux Architect,Car,20,NA,TRUE,Always,TRUE,InternshipPro, Talan ,2,10,Paris
-234595,Aristotle,Thornton,Aristotle.Thornton@supinfo.com,M,France,Auxerre,22/07/95,13/02/21,29/08/21,10/01/21,Design UX/UI,Bike,10,NA,TRUE,Often,FALSE,FullTime, L'Oréal ,2,9,Tours
-234596,Kyle,Chapman,Kyle.Chapman@supinfo.com,M,France,Rodez,05/09/96,29/12/20,28/12/20,25/04/21,Developer Front,Bike,9,Rating,FALSE,Delayed,FALSE,FullTime, PROLIVAL ,3,3,Paris
-234597,Fuller,Sparks,Fuller.Sparks@supinfo.com,M,France,Agen,25/07/95,27/05/21,16/06/20,27/10/21,Developer Front,Bike,14,NA,TRUE,Often,TRUE,InternshipPro, leboncoin ,2,0,Lille
-234598,Lesley,Mcguire,Lesley.Mcguire@supinfo.com,F,France,Issy-les-Moulineaux,22/01/94,09/12/20,29/07/20,08/11/21,Linux Architect,Car,2,Rating,FALSE,Absent,FALSE,FullTime, Apple ,2,5,Lille
-234599,Harrison,Doyle,Harrison.Doyle@supinfo.com,M,France,Saint-Étienne-du-Rouvray,03/03/96,23/11/20,12/04/20,08/09/21,Data Anlalyst,Car,11,NA,TRUE,Always,FALSE,PartTime, Axway ,2,9,Paris
-234600,Ruby,Wolf,Ruby.Wolf@supinfo.com,F,France,Perpignan,11/07/91,25/12/20,27/04/20,03/04/21,Developer Backend,Walk,7,Rating,FALSE,Delayed,FALSE,PartTime, Microsoft ,1,3,Caen
-234601,Hadassah,Everett,Hadassah.Everett@supinfo.com,F,France,La Rochelle,03/06/98,02/11/21,17/11/20,03/12/20,IT Engineer,Walk,5,Rating,FALSE,Absent,FALSE,PartTime, leboncoin ,5,7,Paris
-234602,Heather,Roberts,Heather.Roberts@supinfo.com,M,France,Saint-Louis,06/01/96,04/08/21,19/08/21,02/04/20,Data Anlalyst,Bike,17,NA,TRUE,Often,TRUE,InternshipPro, CGI ,5,4,Caen
-234603,Elijah,Collins,Elijah.Collins@supinfo.com,M,France,Angoulême,02/02/91,07/12/21,11/01/20,07/04/20,Developer Fullstack,Walk,11,NA,TRUE,Delayed,TRUE,InternshipPro, Atos ,1,0,Paris
-234604,Mechelle,Cohen,Mechelle.Cohen@supinfo.com,F,France,Belfort,20/09/92,30/07/21,29/03/21,14/12/19,Data Anlalyst,Walk,15,NA,TRUE,Often,FALSE,FullTime, Microsoft ,5,8,Caen
-234605,Kerry,Ramos,Kerry.Ramos@supinfo.com,F,France,Strasbourg,22/01/96,14/04/21,02/01/21,14/05/20,IT Engineer,Walk,8,Rating,FALSE,Delayed,FALSE,PartTime, Sopra Steria ,2,2,Paris
-234606,Ria,Cochran,Ria.Cochran@supinfo.com,F,France,Mâcon,25/11/98,03/11/20,09/08/21,30/12/19,Admin Sys,Bike,13,NA,FALSE,Often,FALSE,FullTime, LINKBYNET ,2,10,Caen
-234607,Zeph,Mccoy,Zeph.Mccoy@supinfo.com,M,France,Calais,16/12/94,18/10/20,14/11/21,23/02/20,IT Engineer,Train,7,Rating,FALSE,Delayed,FALSE,PartTime, Extia ,3,7,Paris
-234608,Xenos,Blanchard,Xenos.Blanchard@supinfo.com,M,France,Nevers,08/05/93,28/07/21,04/06/20,29/04/20,Admin Sys,Train,9,Rating,FALSE,Delayed,TRUE,InternshipPro, Apple ,4,7,Paris
-234609,Maya,Pittman,Maya.Pittman@supinfo.com,F,France,Rodez,22/07/97,10/03/20,29/06/21,11/01/21,Data Anlalyst,Train,13,NA,TRUE,Often,TRUE,InternshipPro, Oracle ,5,4,Caen
-234610,Roary,Winters,Roary.Winters@supinfo.com,F,France,Marseille,16/11/98,05/05/20,23/12/19,04/04/21,Admin Sys,Train,10,NA,TRUE,Often,TRUE,InternshipPro, Insight ,1,5,Lyon
-234611,Harrison,Gay,Harrison.Gay@supinfo.com,M,France,Castres,10/04/94,06/12/21,05/12/20,13/04/20,Developer Front,Bike,1,Rating,FALSE,Absent,FALSE,PartTime, Banque de France ,5,0,Tours
-234612,Kyle,Preston,Kyle.Preston@supinfo.com,M,France,Tarbes,19/02/93,04/08/20,19/05/21,13/06/20,Developer Backend,Car,18,NA,TRUE,Often,TRUE,InternshipPro, ENGIE ,5,9,Lyon
-234613,Rhoda,Huff,Rhoda.Huff@supinfo.com,F,France,Tarbes,14/06/95,13/03/21,31/01/20,14/08/20,Admin Sys,Walk,3,Rating,FALSE,Absent,FALSE,PartTime, Orange ,2,3,Lille
-234614,Doris,Case,Doris.Case@supinfo.com,M,France,Blois,09/09/96,12/11/20,19/05/21,21/02/20,Linux Architect,Car,13,NA,TRUE,Delayed,TRUE,InternshipPro, Banque de France ,3,0,Lille
-234615,Tiger,Olsen,Tiger.Olsen@supinfo.com,M,France,Alès,31/07/91,20/02/20,16/02/21,15/05/20,Linux Architect,Train,1,Rating,FALSE,Absent,FALSE,FullTime, SPIE ICS ,2,10,Lille
-234616,Hedley,Santana,Hedley.Santana@supinfo.com,M,France,Villenave-d'Ornon,23/11/93,14/04/20,28/01/21,09/04/20,Developer Fullstack,Car,4,Rating,FALSE,Delayed,FALSE,PartTime, OCTO technology ,3,4,Paris
-234617,Macon,Cochran,Macon.Cochran@supinfo.com,M,France,Strasbourg,03/05/93,26/06/20,21/06/20,25/04/20,Design UX/UI,Walk,18,NA,TRUE,Always,TRUE,InternshipPro, Sopra Steria ,0,5,Paris
-234618,Lacy,Solomon,Lacy.Solomon@supinfo.com,F,France,Carcassonne,14/04/98,26/08/21,07/01/21,12/03/21,Design UX/UI,Train,11,NA,TRUE,Delayed,TRUE,InternshipPro, C17 Engineering ,0,7,Caen
-234619,Mufutau,Price,Mufutau.Price@supinfo.com,M,France,Rodez,11/05/97,01/12/21,28/04/20,07/05/20,Linux Architect,Bike,5,Rating,FALSE,Delayed,FALSE,PartTime, Umanis ,2,8,Paris
-234620,Rebekah,Gallagher,Rebekah.Gallagher@supinfo.com,F,France,Vandoeuvre-lès-Nancy,05/10/98,26/12/19,20/05/20,27/06/21,Developer Front,Bike,8,Rating,FALSE,Delayed,TRUE,InternshipPro, ENGIE ,0,10,Caen
-234621,Sheila,Evans,Sheila.Evans@supinfo.com,F,France,Colmar,10/10/97,12/06/21,24/03/21,27/12/19,Data Anlalyst,Bike,5,Rating,FALSE,Absent,FALSE,PartTime, Neoness ,3,5,Paris
-234622,Abdul,Delacruz,Abdul.Delacruz@supinfo.com,M,France,Joué-lès-Tours,29/05/96,19/12/19,31/07/20,10/04/21,Admin Sys,Train,16,NA,TRUE,Often,FALSE,FullTime, AUTO1 Group ,2,2,Caen
-234623,Anastasia,Frank,Anastasia.Frank@supinfo.com,F,France,Rueil-Malmaison,06/09/93,27/12/19,14/02/21,15/11/21,Developer Backend,Bike,14,NA,TRUE,Often,TRUE,InternshipPro, C17 Engineering ,3,6,Paris
-234624,Daphne,Harrell,Daphne.Harrell@supinfo.com,F,France,Lanester,09/11/95,07/11/20,05/01/21,09/02/20,Developer Fullstack,Car,12,NA,TRUE,Delayed,TRUE,InternshipPro, Société Générale ,3,6,Paris
-234625,Owen,Dominguez,Owen.Dominguez@supinfo.com,M,France,Lunel,03/01/96,12/04/21,05/12/21,10/04/20,Admin Sys,Train,20,NA,TRUE,Always,TRUE,InternshipPro, Société Générale ,4,9,Caen
-234626,Raymond,Melton,Raymond.Melton@supinfo.com,M,France,Alençon,17/05/97,25/08/21,27/11/21,03/05/21,Developer Backend,Car,19,NA,TRUE,Always,TRUE,InternshipPro, OPEN ,4,4,Lyon
-234627,Rana,Lee,Rana.Lee@supinfo.com,F,France,Dole,17/04/91,17/06/21,05/05/21,16/06/20,Admin Sys,Bike,10,Rating,FALSE,Delayed,FALSE,FullTime, AUTO1 Group ,0,4,Tours
-234628,Quin,Buckley,Quin.Buckley@supinfo.com,M,France,Bayonne,29/06/91,18/09/21,28/04/20,06/01/21,IT Engineer,Walk,4,Rating,FALSE,Absent,FALSE,PartTime, OCTO technology ,5,10,Lyon
-234629,Madison,Farmer,Madison.Farmer@supinfo.com,F,France,Rezé,09/02/97,17/01/21,27/05/21,16/12/20,IT Engineer,Train,14,NA,TRUE,Often,TRUE,InternshipPro, Alten ,5,10,Lille
-234630,Arthur,Richardson,Arthur.Richardson@supinfo.com,M,France,Châteauroux,30/01/98,13/05/20,15/08/21,11/03/20,IT Engineer,Bike,8,Rating,FALSE,Absent,TRUE,InternshipPro, Qim info SA ,4,3,Lille
-234631,Lee,Mayer,Lee.Mayer@supinfo.com,M,France,Troyes,20/08/93,16/06/21,23/03/20,02/02/21,Developer Front,Train,4,Rating,FALSE,Absent,FALSE,FullTime, Astek ,1,10,Lille
-234632,Kendall,Stone,Kendall.Stone@supinfo.com,F,France,Vandoeuvre-lès-Nancy,06/07/97,15/02/20,30/05/20,04/04/20,Data Anlalyst,Walk,20,NA,TRUE,Always,TRUE,InternshipPro, Société Générale ,0,8,Paris
-234633,Odessa,Luna,Odessa.Luna@supinfo.com,F,France,Bourges,08/02/94,28/03/21,13/01/20,11/06/21,Developer Front,Walk,15,NA,TRUE,Often,FALSE,FullTime, Euro-information ,5,3,Paris
+_id,ID,First_Name,Last_Name,Email,Gender,Country,City,Birth_date,Subscription_Date,Exit_Date,Hire_Date,Study_Domain,Mobility,General_Mean,Interruption_Reason,Graduation,Presence,Internship_Pro,Contract_Type,Company_Name,Recrutement_Salon,Recrutment_Nbr,Campus
+5ffb527cd3a24346509b421f,234534,Chester,Ratliff,Chester.Ratliff@supinfo.com,M,France,Schiltigheim,20/11/95,02/03/20,07/09/21,29/08/20,IT Engineer,Walk,19,NA,TRUE,Always,TRUE,InternshipPro, Modis ,4,0,Paris
+5ffb527cd3a24346509b4220,234535,Callum,Crosby,Callum.Crosby@supinfo.com,M,France,Montpellier,21/01/97,09/02/21,21/10/21,23/08/21,Developer Backend,Walk,6,Rating,FALSE,Delayed,FALSE,PartTime, CHEOPS Technology ,3,3,Caen
+5ffb527cd3a24346509b4221,234536,Grady,Dean,Grady.Dean@supinfo.com,F,France,Soissons,30/10/93,22/07/20,20/03/20,23/04/21,Design UX/UI,Car,16,NA,TRUE,Often,FALSE,PartTime, CGI ,5,9,Lille
+5ffb527cd3a24346509b4222,234537,Leonard,Best,Leonard.Best@supinfo.com,M,France,Amiens,17/09/92,15/03/21,25/07/21,25/08/21,Linux Architect,Train,13,NA,TRUE,Delayed,TRUE,InternshipPro, davidson consulting ,1,0,Lyon
+5ffb527cd3a24346509b4223,234538,Heidi,Hopper,Heidi.Hopper@supinfo.com,F,France,Bastia,20/08/92,21/06/21,28/02/20,25/11/21,Developer Backend,Bike,4,Rating,FALSE,Absent,FALSE,PartTime, C17 Engineering ,5,0,Tours
+5ffb527cd3a24346509b4224,234539,Rafael,Stuart,Rafael.Stuart@supinfo.com,M,France,Bastia,06/01/95,03/12/20,26/11/20,04/02/20,IT Engineer,Car,5,Rating,FALSE,Often,FALSE,PartTime, Dailymotion ,0,10,Paris
+5ffb527cd3a24346509b4225,234540,Amena,Valentine,Amena.Valentine@supinfo.com,F,France,Le Grand-Quevilly,23/09/98,14/08/20,12/05/20,16/06/20,Developer Backend,Train,10,NA,TRUE,Delayed,TRUE,InternshipPro, Devoteam ,1,9,Caen
+5ffb527cd3a24346509b4226,234541,Richard,Mclaughlin,Richard.Mclaughlin@supinfo.com,M,France,Chï¿½teauroux,13/11/94,14/06/20,16/08/21,09/02/20,Developer Front,Bike,14,NA,TRUE,Often,TRUE,InternshipPro, Talan ,3,10,Lille
+5ffb527cd3a24346509b4227,234542,Unity,Walsh,Unity.Walsh@supinfo.com,M,France,Besanï¿½on,06/10/98,13/10/21,23/03/21,24/10/20,Developer Fullstack,Train,6,Rating,FALSE,Absent,FALSE,FullTime, Decathlon ,3,10,Lyon
+5ffb527cd3a24346509b4228,234543,Alyssa,Willis,Alyssa.Willis@supinfo.com,F,France,Thionville,08/11/95,08/10/20,18/08/20,02/08/21,Linux Architect,Bike,8,Rating,FALSE,Absent,FALSE,PartTime, Total ,5,8,Tours
+5ffb527cd3a24346509b4229,234544,Madaline,Harding,Madaline.Harding@supinfo.com,F,France,ï¿½vreux,27/03/91,15/04/20,08/09/20,30/03/21,IT Engineer,Train,12,NA,TRUE,Absent,FALSE,FullTime, IBM ,3,1,Paris
+5ffb527cd3a24346509b422a,234545,Abraham,Coffey,Abraham.Coffey@supinfo.com,M,France,Boulogne-Billancourt,05/09/91,30/10/21,11/12/21,20/07/20,Admin Sys,Walk,5,Rating,FALSE,Absent,FALSE,PartTime, Airbus ,3,3,Caen
+5ffb527cd3a24346509b422b,234546,Kibo,Torres,Kibo.Torres@supinfo.com,M,France,Brive-la-Gaillarde,22/09/98,18/10/20,28/04/20,16/03/21,Data Anlalyst,Car,18,NA,FALSE,Often,TRUE,InternshipPro, Altran ,4,3,Lille
+5ffb527cd3a24346509b422c,234547,Quinlan,Mccormick,Quinlan.Mccormick@supinfo.com,M,France,Colmar,02/04/95,03/12/21,27/06/21,25/10/20,Admin Sys,Train,7,Rating,FALSE,Delayed,TRUE,InternshipPro, CHEOPS Technology ,3,0,Lyon
+5ffb527cd3a24346509b422d,234548,Keely,Baird,Keely.Baird@supinfo.com,F,France,Lisieux,20/05/94,04/10/21,13/01/20,25/08/20,Admin Sys,Car,13,NA,TRUE,Delayed,TRUE,InternshipPro, Extia ,0,7,Tours
+5ffb527cd3a24346509b422e,234549,Axel,Rivas,Axel.Rivas@supinfo.com,M,France,Charleville-Mï¿½ziï¿½res,18/11/98,12/02/21,10/03/20,25/02/21,Design UX/UI,Train,18,NA,TRUE,Often,FALSE,FullTime, C17 Engineering ,3,2,Paris
+5ffb527cd3a24346509b422f,234550,Kyle,Hooper,Kyle.Hooper@supinfo.com,M,France,Sens,02/04/96,02/05/20,26/07/20,20/01/20,Admin Sys,Car,7,Rating,FALSE,Always,TRUE,InternshipPro, Decathlon ,3,9,Caen
+5ffb527cd3a24346509b4230,234551,Bell,Rice,Bell.Rice@supinfo.com,M,France,Brive-la-Gaillarde,10/06/93,06/02/20,21/11/20,06/05/20,Data Anlalyst,Car,17,NA,TRUE,Often,TRUE,InternshipPro, Cat-Amania ,1,3,Paris
+5ffb527cd3a24346509b4231,234552,Savannah,Jarvis,Savannah.Jarvis@supinfo.com,F,France,Mont-de-Marsan,20/09/96,16/03/20,14/03/20,02/11/21,Developer Fullstack,Train,20,NA,TRUE,Always,TRUE,InternshipPro, CGI ,3,2,Caen
+5ffb527cd3a24346509b4232,234553,Megan,Henderson,Megan.Henderson@supinfo.com,F,France,Courbevoie,14/08/94,27/05/20,02/05/21,23/05/21,Admin Sys,Bike,5,Rating,FALSE,Delayed,FALSE,FullTime, Hewlett Packard Enterprise ,4,4,Lille
+5ffb527cd3a24346509b4233,234554,Angelica,Ortega,Angelica.Ortega@supinfo.com,F,France,Rennes,21/03/93,25/02/21,23/04/21,22/08/20,Developer Backend,Walk,6,Rating,FALSE,Delayed,FALSE,PartTime, Qim info SA ,0,6,Lyon
+5ffb527cd3a24346509b4234,234555,Maxine,Pollard,Maxine.Pollard@supinfo.com,M,France,Lunel,11/05/93,15/11/21,20/04/20,02/11/20,Admin Sys,Train,12,NA,TRUE,Absent,FALSE,FullTime, leboncoin ,0,8,Tours
+5ffb527cd3a24346509b4235,234556,Martina,Bolton,Martina.Bolton@supinfo.com,F,France,Ajaccio,06/12/95,09/06/20,18/11/20,20/09/20,Admin Sys,Car,19,NA,FALSE,Often,FALSE,PartTime, Talan ,5,0,Paris
+5ffb527cd3a24346509b4236,234557,Ayanna,Snyder,Ayanna.Snyder@supinfo.com,F,France,Mï¿½con,28/08/96,16/02/20,13/04/21,10/08/21,Developer Fullstack,Train,14,NA,TRUE,Often,TRUE,InternshipPro, Apple ,2,2,Caen
+5ffb527cd3a24346509b4237,234558,TaShya,Moreno,TaShya.Moreno@supinfo.com,F,France,Caen,06/07/95,12/08/21,17/03/21,01/02/21,Developer Front,Bike,10,Rating,FALSE,Absent,FALSE,PartTime, Google ,2,4,Lille
+5ffb527cd3a24346509b4238,234559,Norman,Lambert,Norman.Lambert@supinfo.com,M,France,Rouen,21/10/96,21/12/19,17/11/20,14/06/20,Admin Sys,Train,20,NA,TRUE,Always,TRUE,InternshipPro, LINKBYNET ,5,8,Lyon
+5ffb527cd3a24346509b4239,234560,Arsenio,Rodgers,Arsenio.Rodgers@supinfo.com,M,France,Amiens,14/09/93,28/02/20,10/06/20,22/03/20,IT Engineer,Car,7,Rating,FALSE,Delayed,FALSE,PartTime, Gfi world ,0,8,Paris
+5ffb527cd3a24346509b423a,234561,Zane,Glass,Zane.Glass@supinfo.com,M,France,Saint-Denis,23/10/95,22/03/20,08/11/20,08/01/21,Developer Backend,Walk,14,NA,TRUE,Often,FALSE,FullTime, Computech ,2,9,Caen
+5ffb527cd3a24346509b423b,234562,Sharon,Case,Sharon.Case@supinfo.com,F,France,Ajaccio,08/12/93,15/05/20,21/02/20,09/01/20,Design UX/UI,Car,13,NA,TRUE,Often,FALSE,PartTime, EXAKIS NELITE ,1,3,Lille
+5ffb527cd3a24346509b423c,234563,Simone,Vega,Simone.Vega@supinfo.com,F,France,Ajaccio,07/12/94,09/12/21,04/05/21,13/08/21,Admin Sys,Walk,2,Rating,FALSE,Absent,FALSE,FullTime, Google ,2,10,Lyon
+5ffb527cd3a24346509b423d,234564,Noble,Hoffman,Noble.Hoffman@supinfo.com,M,France,Alï¿½s,07/09/96,05/10/21,03/03/21,04/07/21,Linux Architect,Bike,9,Rating,FALSE,Delayed,TRUE,InternshipPro, Adlere ,4,2,Tours
+5ffb527cd3a24346509b423e,234565,Ria,Holloway,Ria.Holloway@supinfo.com,F,France,Bï¿½ziers,04/04/92,02/05/21,23/01/21,29/03/20,Developer Backend,Train,10,NA,TRUE,Often,FALSE,PartTime, SPIE ICS ,3,6,Paris
+5ffb527cd3a24346509b423f,234566,Amir,Combs,Amir.Combs@supinfo.com,M,France,Rennes,16/05/94,27/11/20,09/12/20,10/08/20,Admin Sys,Car,9,Rating,FALSE,Delayed,FALSE,PartTime, elsan,0,0,Caen
+5ffb527cd3a24346509b4240,234567,Elliott,Rodgers,Elliott.Rodgers@supinfo.com,M,France,Abbeville,03/03/97,10/11/21,06/08/20,13/04/20,IT Engineer,Walk,9,Rating,FALSE,Delayed,FALSE,PartTime, Thales ,5,5,Lille
+5ffb527cd3a24346509b4241,234568,Magee,Hooper,Magee.Hooper@supinfo.com,F,France,Montigny-lï¿½s-Metz,02/08/96,09/06/21,09/02/20,24/10/20,Developer Backend,Car,8,Rating,FALSE,Delayed,FALSE,FullTime, Sogeti ,5,3,Lyon
+5ffb527cd3a24346509b4242,234569,Yeo,Blair,Yeo.Blair@supinfo.com,M,France,Haguenau,25/05/92,15/05/20,23/07/20,04/06/20,Developer Front,Bike,5,Rating,FALSE,Absent,FALSE,PartTime, Lyreco ,2,5,Tours
+5ffb527cd3a24346509b4243,234570,Haviva,Bradford,Haviva.Bradford@supinfo.com,F,France,Saint-ï¿½tienne-du-Rouvray,12/10/93,04/05/20,07/08/20,16/01/21,IT Engineer,Car,20,NA,TRUE,Always,TRUE,InternshipPro, SPIE ICS ,2,3,Paris
+5ffb527cd3a24346509b4244,234571,Imogene,Bruce,Imogene.Bruce@supinfo.com,M,France,Calais,12/03/95,14/03/21,31/10/21,04/05/20,Admin Sys,Train,17,NA,TRUE,Often,FALSE,PartTime,Capgemini ,3,2,Caen
+5ffb527cd3a24346509b4245,234572,Thor,Jordan,Thor.Jordan@supinfo.com,M,France,Dijon,16/05/97,28/12/19,19/04/21,28/05/21,Design UX/UI,Train,12,NA,TRUE,Delayed,FALSE,PartTime, Desjardins ,4,3,Lille
+5ffb527cd3a24346509b4246,234573,Kendall,Beard,Kendall.Beard@supinfo.com,F,France,Maubeuge,14/10/91,16/10/21,24/06/20,14/07/20,IT Engineer,Bike,12,NA,TRUE,Always,TRUE,InternshipPro, Worldline Global ,2,10,Paris
+5ffb527cd3a24346509b4247,234574,Kessie,Meadows,Kessie.Meadows@supinfo.com,F,France,Tarbes,20/12/90,07/04/20,17/12/19,23/03/20,Data Anlalyst,Walk,19,NA,TRUE,Always,TRUE,InternshipPro, Modis ,4,6,Caen
+5ffb527cd3a24346509b4248,234575,Katelyn,Flowers,Katelyn.Flowers@supinfo.com,F,France,Cherbourg-Octeville,22/02/91,12/02/20,03/04/21,09/05/20,Developer Fullstack,Bike,16,NA,TRUE,Often,FALSE,FullTime, GPMJ ,4,10,Lille
+5ffb527cd3a24346509b4249,234576,Hall,Joyce,Hall.Joyce@supinfo.com,M,France,Saint-Lï¿½,20/09/91,31/05/21,30/11/21,26/04/20,Linux Architect,Car,8,Rating,FALSE,Delayed,FALSE,FullTime, Worldline Global ,0,3,Lyon
+5ffb527cd3a24346509b424a,234577,Clio,Berry,Clio.Berry@supinfo.com,M,France,Reims,02/11/93,22/05/21,12/06/21,12/12/19,Linux Architect,Walk,14,NA,TRUE,Often,TRUE,InternshipPro, Nï¿½o-Soft Groupe ,3,3,Tours
+5ffb527cd3a24346509b424b,234578,Leslie,Sandoval,Leslie.Sandoval@supinfo.com,F,France,Aubervilliers,15/11/95,09/08/20,24/07/21,07/08/20,Data Anlalyst,Train,18,NA,TRUE,Always,TRUE,InternshipPro, Atos ,2,4,Paris
+5ffb527cd3a24346509b424c,234579,Alec,Hunter,Alec.Hunter@supinfo.com,M,France,Saint-Malo,03/06/97,28/09/21,18/07/21,28/05/20,Developer Front,Car,7,Rating,FALSE,Delayed,FALSE,PartTime, Dailymotion ,2,1,Caen
+5ffb527cd3a24346509b424d,234580,Taylor,Christian,Taylor.Christian@supinfo.com,M,France,Dunkerque,19/12/95,02/07/21,01/09/20,14/10/20,IT Engineer,Walk,1,Rating,FALSE,Absent,FALSE,PartTime, SPIE ICS ,2,9,Lille
+5ffb527cd3a24346509b424e,234581,Yoshi,Lopez,Yoshi.Lopez@supinfo.com,M,France,Saintes,27/02/96,27/06/20,14/03/21,06/05/21,Linux Architect,Walk,19,NA,TRUE,Always,TRUE,InternshipPro, Alten ,5,1,Lyon
+5ffb527cd3a24346509b424f,234582,Isaiah,Bond,Isaiah.Bond@supinfo.com,M,France,Laval,18/12/97,22/06/21,26/08/20,14/06/20,Developer Fullstack,Walk,6,Rating,FALSE,Absent,FALSE,FullTime, Dailymotion ,2,10,Tours
+5ffb527cd3a24346509b4250,234583,Allegra,Nguyen,Allegra.Nguyen@supinfo.com,F,France,Sarreguemines,04/06/97,24/10/21,20/09/20,24/11/20,Developer Backend,Bike,17,NA,TRUE,Often,TRUE,InternshipPro, Criteo ,4,2,Lyon
+5ffb527cd3a24346509b4251,234584,Francesca,Mercer,Francesca.Mercer@supinfo.com,F,France,Colmar,31/01/94,07/05/20,26/03/20,03/06/21,Linux Architect,Walk,7,Rating,FALSE,Delayed,FALSE,FullTime, Gfi world ,1,4,Tours
+5ffb527cd3a24346509b4252,234585,Neil,Lang,Neil.Lang@supinfo.com,M,France,Bourges,01/06/95,19/10/20,18/09/20,21/12/19,Developer Backend,Train,20,NA,TRUE,Always,TRUE,InternshipPro, Insight ,3,1,Lyon
+5ffb527cd3a24346509b4253,234586,Hilda,Wiggins,Hilda.Wiggins@supinfo.com,F,France,Dole,22/06/96,26/09/21,20/05/20,12/04/20,Admin Sys,Car,10,NA,TRUE,Delayed,FALSE,PartTime, PROLIVAL ,4,0,Tours
+5ffb527cd3a24346509b4254,234587,Ferdinand,Mendez,Ferdinand.Mendez@supinfo.com,M,France,Saint-Quentin,11/09/91,11/03/21,30/10/21,28/01/21,Developer Fullstack,Walk,10,Rating,FALSE,Absent,FALSE,FullTime, Cat-Amania ,5,10,Lyon
+5ffb527cd3a24346509b4255,234588,Igor,Casey,Igor.Casey@supinfo.com,M,France,Vichy,28/08/93,25/04/20,08/06/21,20/09/20,Linux Architect,Car,15,NA,TRUE,Often,FALSE,FullTime," L'Orï¿½al ",4,9,Tours
+5ffb527cd3a24346509b4256,234589,Tatiana,Newton,Tatiana.Newton@supinfo.com,F,France,Montreuil,11/05/96,30/12/20,15/01/21,27/02/20,Developer Front,Walk,7,Rating,FALSE,Delayed,TRUE,InternshipPro, Cat-Amania ,3,1,Lyon
+5ffb527cd3a24346509b4257,234590,Reed,Mejia,Reed.Mejia@supinfo.com,M,France,Rodez,24/07/97,16/05/20,02/08/21,06/06/21,Design UX/UI,Train,6,Rating,FALSE,Delayed,TRUE,InternshipPro, Umanis ,0,2,Lille
+5ffb527cd3a24346509b4258,234591,Haviva,Mcguire,Haviva.Mcguire@supinfo.com,F,France,Montluï¿½on,16/05/92,10/04/21,05/07/21,09/12/20,Linux Architect,Walk,2,Rating,FALSE,Absent,FALSE,FullTime, Sogeti ,5,8,Lille
+5ffb527cd3a24346509b4259,234592,Zachary,Douglas,Zachary.Douglas@supinfo.com,M,France,Limoges,08/09/97,23/07/20,25/12/19,25/05/20,Developer Front,Bike,10,Rating,FALSE,Delayed,TRUE,InternshipPro, Qim info SA ,3,1,Lille
+5ffb527cd3a24346509b425a,234593,Hector,Chapman,Hector.Chapman@supinfo.com,M,France,Chalon-sur-Saï¿½ne,23/03/92,27/04/21,13/07/21,30/05/20,Data Anlalyst,Train,1,Rating,FALSE,Absent,FALSE,PartTime, Insight ,1,9,Tours
+5ffb527cd3a24346509b425b,234594,Yuri,Randolph,Yuri.Randolph@supinfo.com,M,France,Compiï¿½gne,19/11/97,07/04/20,25/06/21,27/10/20,Linux Architect,Car,20,NA,TRUE,Always,TRUE,InternshipPro, Talan ,2,10,Paris
+5ffb527cd3a24346509b425c,234595,Aristotle,Thornton,Aristotle.Thornton@supinfo.com,M,France,Auxerre,22/07/95,13/02/21,29/08/21,10/01/21,Design UX/UI,Bike,10,NA,TRUE,Often,FALSE,FullTime," L'Orï¿½al ",2,9,Tours
+5ffb527cd3a24346509b425d,234596,Kyle,Chapman,Kyle.Chapman@supinfo.com,M,France,Rodez,05/09/96,29/12/20,28/12/20,25/04/21,Developer Front,Bike,9,Rating,FALSE,Delayed,FALSE,FullTime, PROLIVAL ,3,3,Paris
+5ffb527cd3a24346509b425e,234597,Fuller,Sparks,Fuller.Sparks@supinfo.com,M,France,Agen,25/07/95,27/05/21,16/06/20,27/10/21,Developer Front,Bike,14,NA,TRUE,Often,TRUE,InternshipPro, leboncoin ,2,0,Lille
+5ffb527cd3a24346509b425f,234598,Lesley,Mcguire,Lesley.Mcguire@supinfo.com,F,France,Issy-les-Moulineaux,22/01/94,09/12/20,29/07/20,08/11/21,Linux Architect,Car,2,Rating,FALSE,Absent,FALSE,FullTime, Apple ,2,5,Lille
+5ffb527cd3a24346509b4260,234599,Harrison,Doyle,Harrison.Doyle@supinfo.com,M,France,Saint-ï¿½tienne-du-Rouvray,03/03/96,23/11/20,12/04/20,08/09/21,Data Anlalyst,Car,11,NA,TRUE,Always,FALSE,PartTime, Axway ,2,9,Paris
+5ffb527cd3a24346509b4261,234600,Ruby,Wolf,Ruby.Wolf@supinfo.com,F,France,Perpignan,11/07/91,25/12/20,27/04/20,03/04/21,Developer Backend,Walk,7,Rating,FALSE,Delayed,FALSE,PartTime, Microsoft ,1,3,Caen
+5ffb527cd3a24346509b4262,234601,Hadassah,Everett,Hadassah.Everett@supinfo.com,F,France,La Rochelle,03/06/98,02/11/21,17/11/20,03/12/20,IT Engineer,Walk,5,Rating,FALSE,Absent,FALSE,PartTime, leboncoin ,5,7,Paris
+5ffb527cd3a24346509b4263,234602,Heather,Roberts,Heather.Roberts@supinfo.com,M,France,Saint-Louis,06/01/96,04/08/21,19/08/21,02/04/20,Data Anlalyst,Bike,17,NA,TRUE,Often,TRUE,InternshipPro, CGI ,5,4,Caen
+5ffb527cd3a24346509b4264,234603,Elijah,Collins,Elijah.Collins@supinfo.com,M,France,Angoulï¿½me,02/02/91,07/12/21,11/01/20,07/04/20,Developer Fullstack,Walk,11,NA,TRUE,Delayed,TRUE,InternshipPro, Atos ,1,0,Paris
+5ffb527cd3a24346509b4265,234604,Mechelle,Cohen,Mechelle.Cohen@supinfo.com,F,France,Belfort,20/09/92,30/07/21,29/03/21,14/12/19,Data Anlalyst,Walk,15,NA,TRUE,Often,FALSE,FullTime, Microsoft ,5,8,Caen
+5ffb527cd3a24346509b4266,234605,Kerry,Ramos,Kerry.Ramos@supinfo.com,F,France,Strasbourg,22/01/96,14/04/21,02/01/21,14/05/20,IT Engineer,Walk,8,Rating,FALSE,Delayed,FALSE,PartTime, Sopra Steria ,2,2,Paris
+5ffb527cd3a24346509b4267,234606,Ria,Cochran,Ria.Cochran@supinfo.com,F,France,Mï¿½con,25/11/98,03/11/20,09/08/21,30/12/19,Admin Sys,Bike,13,NA,FALSE,Often,FALSE,FullTime, LINKBYNET ,2,10,Caen
+5ffb527cd3a24346509b4268,234607,Zeph,Mccoy,Zeph.Mccoy@supinfo.com,M,France,Calais,16/12/94,18/10/20,14/11/21,23/02/20,IT Engineer,Train,7,Rating,FALSE,Delayed,FALSE,PartTime, Extia ,3,7,Paris
+5ffb527cd3a24346509b4269,234608,Xenos,Blanchard,Xenos.Blanchard@supinfo.com,M,France,Nevers,08/05/93,28/07/21,04/06/20,29/04/20,Admin Sys,Train,9,Rating,FALSE,Delayed,TRUE,InternshipPro, Apple ,4,7,Paris
+5ffb527cd3a24346509b426a,234609,Maya,Pittman,Maya.Pittman@supinfo.com,F,France,Rodez,22/07/97,10/03/20,29/06/21,11/01/21,Data Anlalyst,Train,13,NA,TRUE,Often,TRUE,InternshipPro, Oracle ,5,4,Caen
+5ffb527cd3a24346509b426b,234610,Roary,Winters,Roary.Winters@supinfo.com,F,France,Marseille,16/11/98,05/05/20,23/12/19,04/04/21,Admin Sys,Train,10,NA,TRUE,Often,TRUE,InternshipPro, Insight ,1,5,Lyon
+5ffb527cd3a24346509b426c,234611,Harrison,Gay,Harrison.Gay@supinfo.com,M,France,Castres,10/04/94,06/12/21,05/12/20,13/04/20,Developer Front,Bike,1,Rating,FALSE,Absent,FALSE,PartTime, Banque de France ,5,0,Tours
+5ffb527cd3a24346509b426d,234612,Kyle,Preston,Kyle.Preston@supinfo.com,M,France,Tarbes,19/02/93,04/08/20,19/05/21,13/06/20,Developer Backend,Car,18,NA,TRUE,Often,TRUE,InternshipPro, ENGIE ,5,9,Lyon
+5ffb527cd3a24346509b426e,234613,Rhoda,Huff,Rhoda.Huff@supinfo.com,F,France,Tarbes,14/06/95,13/03/21,31/01/20,14/08/20,Admin Sys,Walk,3,Rating,FALSE,Absent,FALSE,PartTime, Orange ,2,3,Lille
+5ffb527cd3a24346509b426f,234614,Doris,Case,Doris.Case@supinfo.com,M,France,Blois,09/09/96,12/11/20,19/05/21,21/02/20,Linux Architect,Car,13,NA,TRUE,Delayed,TRUE,InternshipPro, Banque de France ,3,0,Lille
+5ffb527cd3a24346509b4270,234615,Tiger,Olsen,Tiger.Olsen@supinfo.com,M,France,Alï¿½s,31/07/91,20/02/20,16/02/21,15/05/20,Linux Architect,Train,1,Rating,FALSE,Absent,FALSE,FullTime, SPIE ICS ,2,10,Lille
+5ffb527cd3a24346509b4271,234616,Hedley,Santana,Hedley.Santana@supinfo.com,M,France,"Villenave-d'Ornon",23/11/93,14/04/20,28/01/21,09/04/20,Developer Fullstack,Car,4,Rating,FALSE,Delayed,FALSE,PartTime, OCTO technology ,3,4,Paris
+5ffb527cd3a24346509b4272,234617,Macon,Cochran,Macon.Cochran@supinfo.com,M,France,Strasbourg,03/05/93,26/06/20,21/06/20,25/04/20,Design UX/UI,Walk,18,NA,TRUE,Always,TRUE,InternshipPro, Sopra Steria ,0,5,Paris
+5ffb527cd3a24346509b4273,234618,Lacy,Solomon,Lacy.Solomon@supinfo.com,F,France,Carcassonne,14/04/98,26/08/21,07/01/21,12/03/21,Design UX/UI,Train,11,NA,TRUE,Delayed,TRUE,InternshipPro, C17 Engineering ,0,7,Caen
+5ffb527cd3a24346509b4274,234619,Mufutau,Price,Mufutau.Price@supinfo.com,M,France,Rodez,11/05/97,01/12/21,28/04/20,07/05/20,Linux Architect,Bike,5,Rating,FALSE,Delayed,FALSE,PartTime, Umanis ,2,8,Paris
+5ffb527cd3a24346509b4275,234620,Rebekah,Gallagher,Rebekah.Gallagher@supinfo.com,F,France,Vandoeuvre-lï¿½s-Nancy,05/10/98,26/12/19,20/05/20,27/06/21,Developer Front,Bike,8,Rating,FALSE,Delayed,TRUE,InternshipPro, ENGIE ,0,10,Caen
+5ffb527cd3a24346509b4276,234621,Sheila,Evans,Sheila.Evans@supinfo.com,F,France,Colmar,10/10/97,12/06/21,24/03/21,27/12/19,Data Anlalyst,Bike,5,Rating,FALSE,Absent,FALSE,PartTime, Neoness ,3,5,Paris
+5ffb527cd3a24346509b4277,234622,Abdul,Delacruz,Abdul.Delacruz@supinfo.com,M,France,Jouï¿½-lï¿½s-Tours,29/05/96,19/12/19,31/07/20,10/04/21,Admin Sys,Train,16,NA,TRUE,Often,FALSE,FullTime, AUTO1 Group ,2,2,Caen
+5ffb527cd3a24346509b4278,234623,Anastasia,Frank,Anastasia.Frank@supinfo.com,F,France,Rueil-Malmaison,06/09/93,27/12/19,14/02/21,15/11/21,Developer Backend,Bike,14,NA,TRUE,Often,TRUE,InternshipPro, C17 Engineering ,3,6,Paris
+5ffb527cd3a24346509b4279,234624,Daphne,Harrell,Daphne.Harrell@supinfo.com,F,France,Lanester,09/11/95,07/11/20,05/01/21,09/02/20,Developer Fullstack,Car,12,NA,TRUE,Delayed,TRUE,InternshipPro, Sociï¿½tï¿½ Gï¿½nï¿½rale ,3,6,Paris
+5ffb527cd3a24346509b427a,234625,Owen,Dominguez,Owen.Dominguez@supinfo.com,M,France,Lunel,03/01/96,12/04/21,05/12/21,10/04/20,Admin Sys,Train,20,NA,TRUE,Always,TRUE,InternshipPro, Sociï¿½tï¿½ Gï¿½nï¿½rale ,4,9,Caen
+5ffb527cd3a24346509b427b,234626,Raymond,Melton,Raymond.Melton@supinfo.com,M,France,Alenï¿½on,17/05/97,25/08/21,27/11/21,03/05/21,Developer Backend,Car,19,NA,TRUE,Always,TRUE,InternshipPro, OPEN ,4,4,Lyon
+5ffb527cd3a24346509b427c,234627,Rana,Lee,Rana.Lee@supinfo.com,F,France,Dole,17/04/91,17/06/21,05/05/21,16/06/20,Admin Sys,Bike,10,Rating,FALSE,Delayed,FALSE,FullTime, AUTO1 Group ,0,4,Tours
+5ffb527cd3a24346509b427d,234628,Quin,Buckley,Quin.Buckley@supinfo.com,M,France,Bayonne,29/06/91,18/09/21,28/04/20,06/01/21,IT Engineer,Walk,4,Rating,FALSE,Absent,FALSE,PartTime, OCTO technology ,5,10,Lyon
+5ffb527cd3a24346509b427e,234629,Madison,Farmer,Madison.Farmer@supinfo.com,F,France,Rezï¿½,09/02/97,17/01/21,27/05/21,16/12/20,IT Engineer,Train,14,NA,TRUE,Often,TRUE,InternshipPro, Alten ,5,10,Lille
+5ffb527cd3a24346509b427f,234630,Arthur,Richardson,Arthur.Richardson@supinfo.com,M,France,Chï¿½teauroux,30/01/98,13/05/20,15/08/21,11/03/20,IT Engineer,Bike,8,Rating,FALSE,Absent,TRUE,InternshipPro, Qim info SA ,4,3,Lille
+5ffb527cd3a24346509b4280,234631,Lee,Mayer,Lee.Mayer@supinfo.com,M,France,Troyes,20/08/93,16/06/21,23/03/20,02/02/21,Developer Front,Train,4,Rating,FALSE,Absent,FALSE,FullTime, Astek ,1,10,Lille
+5ffb527cd3a24346509b4281,234632,Kendall,Stone,Kendall.Stone@supinfo.com,F,France,Vandoeuvre-lï¿½s-Nancy,06/07/97,15/02/20,30/05/20,04/04/20,Data Anlalyst,Walk,20,NA,TRUE,Always,TRUE,InternshipPro, Sociï¿½tï¿½ Gï¿½nï¿½rale ,0,8,Paris
+5ffb527cd3a24346509b4282,234633,Odessa,Luna,Odessa.Luna@supinfo.com,F,France,Bourges,08/02/94,28/03/21,13/01/20,11/06/21,Developer Front,Walk,15,NA,TRUE,Often,FALSE,FullTime, Euro-information ,5,3,Paris
