@@ -34,7 +34,7 @@ exports.getStoppedStudents = (req,res) => {
   Etudiant.find({
     "Interruption_Reason": { $ne: "NA"}
   }).then(etudiants => {
-    res.send(etudiants.slice(0,15));
+      res.send(etudiants.slice(0,20));
   }).catch(err => {
     res.status(500).send({
       message: err.message || 'error in the api'
@@ -61,7 +61,7 @@ exports.findOne = (req, res) => {
 };
 
 exports.getGraphOfSuccessfullStudent = (req, res) => {
-    Etudiant.find({}, {Email:1,General_Mean:1})
+    Etudiant.find()
     .then(etudiants => {
       console.log(etudiants)
     })
