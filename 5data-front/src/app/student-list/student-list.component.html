@@ -1,21 +1,19 @@
 <div>
-  <div style="display: grid;
-  width: 100%;
-  justify-content: center;">
+  <div style="display: flex; width: 100%; justify-content: space-around">
     <button
       (click)="allStudent($event)"
       type="button"
       class="waves-effect waves-light btn-small"
     >
-      All</button
-    ><br />
+      All
+    </button>
     <button
       (click)="successfulStudent($event)"
       type="button"
       class="waves-effect waves-light btn-small"
     >
-      Successfull</button
-    ><br />
+      Successfull
+    </button>
     <button
       (click)="getStoppedStudent($event)"
       type="button"
@@ -23,9 +21,24 @@
     >
       Stopped Student
     </button>
+    <button
+      (click)="getStudentByRegion($event)"
+      type="button"
+      class="waves-effect waves-light btn-small"
+    >
+      Students By Region
+    </button>
   </div>
-  <div id="chartContainer" style="height: 370px; width: 100%; padding-top: 25px; padding-bottom: 60px;"></div>
-  <div class="row">
+  <div
+    id="chartContainer"
+    style="    height: 70%;
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 400px;
+    display: block;
+    justify-content: center;"
+  ></div>
+  <div class="row" style="padding-top: 100px;">
     <div class="col s12 m4" *ngFor="let student of students">
       <div class="card blue-grey darken-1" style="height: 15em;">
         <div class="card-content white-text">
@@ -35,11 +48,11 @@
               student.Last_Name
             }}
           </p>
+          <p>Mean&nbsp;:&nbsp;{{ student.General_Mean }}</p>
           <p>
-            Mean&nbsp;:&nbsp;{{ student.General_Mean }}
-          </p>
-          <p>
-            Mail&nbsp;:&nbsp;{{ student.Email }}&nbsp;&nbsp;Campus&nbsp;:&nbsp;{{ student.Campus}}
+            Mail&nbsp;:&nbsp;{{
+              student.Email
+            }}&nbsp;&nbsp;Campus&nbsp;:&nbsp;{{ student.Campus }}
           </p>
           <p *ngIf="student.Interruption_Reason !== 'NA'">
             Interruption_Reason&nbsp;:&nbsp;{{ student.Interruption_Reason }}

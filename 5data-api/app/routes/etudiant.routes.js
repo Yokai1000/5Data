@@ -11,5 +11,8 @@ module.exports = app => {
 
   // app.get('/etudiants/success/graph', etudiants.getGraphOfSuccessfullStudent);
   app.get('/etudiants/stopped', etudiants.getStoppedStudents);
+
+  app.get('/etudiants/region', etudiants.findAll);
+
   // app.get('/etudiants/CountByYear/Domain', etudiants.CountByYearGroupedByDomain);
 };
